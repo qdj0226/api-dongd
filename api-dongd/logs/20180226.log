@@ -1,0 +1,36 @@
+2018-02-26 17:24:25,609 logincase.py[line: 15] INFO: login²âÊÔ¿ªÊ¼¡£¡£¡£
+2018-02-26 17:24:25,615 httpprotocol.py[line: 95] INFO: ·¢ÆğpostÇëÇó:http://jg.yx.ldsd.cc:8080/smartcommunity/login/toLogin,Öµ:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-02-26 17:24:25,615 httpprotocol.py[line: 96] INFO: ÇëÇóÍ·Îª:None
+2018-02-26 17:24:25,811 logincase.py[line: 20] INFO: login²âÊÔ½áÊø¡£¡£¡£
+2018-02-26 17:25:54,208 logincase.py[line: 15] INFO: login²âÊÔ¿ªÊ¼¡£¡£¡£
+2018-02-26 17:25:54,208 httpprotocol.py[line: 95] INFO: ·¢ÆğpostÇëÇó:http://jg.yx.ldsd.cc:8080/smartcommunity/login/toLogin,Öµ:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-02-26 17:25:54,208 httpprotocol.py[line: 96] INFO: ÇëÇóÍ·Îª:None
+2018-02-26 17:25:54,264 logincase.py[line: 20] INFO: login²âÊÔ½áÊø¡£¡£¡£
+2018-02-26 17:26:02,129 logincase.py[line: 15] INFO: login²âÊÔ¿ªÊ¼¡£¡£¡£
+2018-02-26 17:26:02,130 httpprotocol.py[line: 95] INFO: ·¢ÆğpostÇëÇó:http://jg.yx.ldsd.cc:8080/smartcommunity/login/toLogin,Öµ:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-02-26 17:26:02,130 httpprotocol.py[line: 96] INFO: ÇëÇóÍ·Îª:None
+2018-02-26 17:26:02,173 logincase.py[line: 20] INFO: login²âÊÔ½áÊø¡£¡£¡£
+2018-02-26 17:26:09,144 logincase.py[line: 15] INFO: login²âÊÔ¿ªÊ¼¡£¡£¡£
+2018-02-26 17:26:09,144 httpprotocol.py[line: 95] INFO: ·¢ÆğpostÇëÇó:http://jg.yx.ldsd.cc:8080/smartcommunity/login/toLogin,Öµ:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-02-26 17:26:09,144 httpprotocol.py[line: 96] INFO: ÇëÇóÍ·Îª:None
+2018-02-26 17:26:09,182 logincase.py[line: 20] INFO: login²âÊÔ½áÊø¡£¡£¡£
+2018-02-26 17:26:24,697 logincase.py[line: 15] INFO: login²âÊÔ¿ªÊ¼¡£¡£¡£
+2018-02-26 17:26:24,697 httpprotocol.py[line: 95] INFO: ·¢ÆğpostÇëÇó:http://jg.yx.ldsd.cc:8080/smartcommunity/login/toLogin,Öµ:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-02-26 17:26:24,697 httpprotocol.py[line: 96] INFO: ÇëÇóÍ·Îª:None
+2018-02-26 17:26:24,740 logincase.py[line: 20] INFO: login²âÊÔ½áÊø¡£¡£¡£
+2018-02-26 17:27:10,254 logincase.py[line: 15] INFO: login²âÊÔ¿ªÊ¼¡£¡£¡£
+2018-02-26 17:27:10,254 httpprotocol.py[line: 95] INFO: ·¢ÆğpostÇëÇó:http://jg.yx.ldsd.cc:8080/smartcommunity/login/toLogin,Öµ:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-02-26 17:27:10,254 httpprotocol.py[line: 96] INFO: ÇëÇóÍ·Îª:None
+2018-02-26 17:27:10,331 logincase.py[line: 20] INFO: login²âÊÔ½áÊø¡£¡£¡£
+2018-02-26 17:28:07,680 logincase.py[line: 15] INFO: login²âÊÔ¿ªÊ¼¡£¡£¡£
+2018-02-26 17:28:07,680 httpprotocol.py[line: 95] INFO: ·¢ÆğpostÇëÇó:http://jg.yx.ldsd.cc:8080/smartcommunity/login/toLogin,Öµ:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-02-26 17:28:07,680 httpprotocol.py[line: 96] INFO: ÇëÇóÍ·Îª:None
+2018-02-26 17:28:07,738 logincase.py[line: 20] INFO: login²âÊÔ½áÊø¡£¡£¡£
+2018-02-26 17:28:14,494 logincase.py[line: 15] INFO: login²âÊÔ¿ªÊ¼¡£¡£¡£
+2018-02-26 17:28:14,494 httpprotocol.py[line: 95] INFO: ·¢ÆğpostÇëÇó:http://jg.yx.ldsd.cc:8080/smartcommunity/login/toLogin,Öµ:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-02-26 17:28:14,495 httpprotocol.py[line: 96] INFO: ÇëÇóÍ·Îª:None
+2018-02-26 17:28:14,537 logincase.py[line: 20] INFO: login²âÊÔ½áÊø¡£¡£¡£
+2018-02-26 17:31:12,402 logincase.py[line: 15] INFO: loginæµ‹è¯•å¼€å§‹ã€‚ã€‚ã€‚
+2018-02-26 17:31:12,402 httpprotocol.py[line: 95] INFO: å‘èµ·postè¯·æ±‚:http://jg.yx.ldsd.cc:8080/smartcommunity/login/toLogin,å€¼:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-02-26 17:31:12,402 httpprotocol.py[line: 96] INFO: è¯·æ±‚å¤´ä¸º:None
+2018-02-26 17:31:12,454 logincase.py[line: 20] INFO: loginæµ‹è¯•ç»“æŸã€‚ã€‚ã€‚

@@ -1,0 +1,17 @@
+2018-01-16 11:12:36,273 log.py[line: 50] INFO: xxxx
+2018-01-16 11:16:18,724 log.py[line: 50] INFO: xxx
+2018-01-16 11:38:57,246 httpprotocol.py[line: 37] INFO: 发起get请求:http://jg.yx.ldsd.cc:8080/smartcommunity/login,值:None
+2018-01-16 11:39:14,319 httpprotocol.py[line: 37] INFO: 发起get请求:http://jg.yx.ldsd.cc:8080/smartcommunity/login,值:None
+2018-01-16 11:39:48,913 httpprotocol.py[line: 37] INFO: 发起get请求:http://jg.yx.ldsd.cc:8080/smartcommunity/login,值:None
+2018-01-16 11:50:46,623 httpprotocol.py[line: 37] INFO: 发起get请求:http://jg.yx.ldsd.cc:8080/smartcommunity/login,值:None
+2018-01-16 11:50:46,623 httpprotocol.py[line: 42] ERROR: 发送请求失败，原因：request() got an unexpected keyword argument 'header'
+2018-01-16 11:51:03,577 httpprotocol.py[line: 48] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"cellphone": "13168106986", "password": "123456"}
+2018-01-16 11:51:03,577 httpprotocol.py[line: 53] ERROR: 发送请求失败，原因：request() got an unexpected keyword argument 'header'
+2018-01-16 11:51:22,648 httpprotocol.py[line: 48] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"cellphone": "13168106986", "password": "123456"}
+2018-01-16 11:51:22,649 httpprotocol.py[line: 53] ERROR: 发送请求失败，原因：request() got an unexpected keyword argument 'header'
+2018-01-16 11:51:46,626 httpprotocol.py[line: 48] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"cellphone": "13168106986", "password": "123456"}
+2018-01-16 11:51:46,626 httpprotocol.py[line: 53] ERROR: 发送请求失败，原因：request() got an unexpected keyword argument 'header'
+2018-01-16 11:52:56,235 httpprotocol.py[line: 48] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"cellphone": "13168106986", "password": "123456"}
+2018-01-16 11:53:02,242 httpprotocol.py[line: 48] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"cellphone": "13168106986", "password": "123456"}
+2018-01-16 11:53:23,131 httpprotocol.py[line: 37] INFO: 发起get请求:http://jg.yx.ldsd.cc:8080/smartcommunity/login,值:None
+2018-01-16 11:53:23,333 httpprotocol.py[line: 48] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"cellphone": "13168106986", "password": "123456"}

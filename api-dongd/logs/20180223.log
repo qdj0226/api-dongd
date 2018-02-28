@@ -1,0 +1,10 @@
+2018-02-23 09:12:30,089 test_case.py[line: 11] INFO: 测试开始
+2018-02-23 09:12:30,399 test_case.py[line: 14] INFO: 结束测试
+2018-02-23 09:12:30,401 test_case.py[line: 11] INFO: 测试开始
+2018-02-23 09:12:30,509 test_case.py[line: 14] INFO: 结束测试
+2018-02-23 09:12:30,511 test_case.py[line: 11] INFO: 测试开始
+2018-02-23 09:12:30,801 test_case.py[line: 14] INFO: 结束测试
+2018-02-23 09:12:30,804 test_case.py[line: 11] INFO: 测试开始
+2018-02-23 09:12:30,901 test_case.py[line: 14] INFO: 结束测试
+2018-02-23 09:12:30,901 test_case.py[line: 11] INFO: 测试开始
+2018-02-23 09:12:31,059 test_case.py[line: 14] INFO: 结束测试

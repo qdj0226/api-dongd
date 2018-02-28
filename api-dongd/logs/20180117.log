@@ -1,0 +1,268 @@
+2018-01-17 10:10:26,416 log.py[line: 61] ERROR: xxxx
+2018-01-17 10:12:05,348 get_excel.py[line: 31] INFO: xxxx
+2018-01-17 10:20:38,994 get_excel.py[line: 14] INFO: xxxx
+2018-01-17 10:21:05,799 get_excel.py[line: 14] INFO: xxx
+2018-01-17 10:21:38,596 get_excel.py[line: 19] ERROR: 获取xlsx列表失败,错误信息:No sheet named <'xxx'>
+2018-01-17 10:23:04,960 get_excel.py[line: 19] ERROR: 获取xlsx列表失败,错误信息:No sheet named <'xxx'>
+2018-01-17 10:23:04,961 get_excel.py[line: 31] ERROR: 获取xlsx列表失败,错误信息:'GetExcel' object has no attribute 'data'
+2018-01-17 10:24:24,368 get_excel.py[line: 26] ERROR: 只能输入表格名称和表格索引号
+2018-01-17 10:24:24,368 get_excel.py[line: 31] ERROR: 获取xlsx列表失败,错误信息:'GetExcel' object has no attribute 'data'
+2018-01-17 10:25:06,483 get_excel.py[line: 26] ERROR: 只能输入表格名称和表格索引号
+2018-01-17 10:25:26,753 get_excel.py[line: 26] ERROR: 只能输入表格名称和表格索引号
+2018-01-17 10:26:35,978 get_excel.py[line: 26] ERROR: 只能输入表格名称和表格索引号
+2018-01-17 10:26:43,209 get_excel.py[line: 19] ERROR: 获取xlsx列表失败,错误信息:No sheet named <'xxx'>
+2018-01-17 10:26:43,210 get_excel.py[line: 32] ERROR: 获取xlsx列表失败,错误信息:'GetExcel' object has no attribute 'data'
+2018-01-17 11:53:23,325 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 11:53:23,337 get_excel.py[line: 18] INFO: 获取xlsx列表索引,索引号:login
+2018-01-17 11:53:23,338 get_excel.py[line: 19] ERROR: 获取xlsx列表失败,错误信息:No sheet named <'login'>
+2018-01-17 11:53:23,338 get_excel.py[line: 32] ERROR: 获取xlsx列表失败,错误信息:'GetExcel' object has no attribute 'data'
+2018-01-17 11:53:39,338 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 11:53:56,406 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 11:54:04,847 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 11:54:17,455 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 11:54:22,287 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 14:12:38,737 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 14:13:14,803 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 14:13:34,799 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 14:14:07,651 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 14:14:13,451 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 14:14:24,281 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 14:14:40,945 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 14:14:48,320 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 14:15:01,730 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 14:15:10,598 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 14:16:42,616 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 14:17:02,418 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 14:17:30,557 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 14:25:54,121 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 14:29:34,784 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 14:30:33,038 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 14:30:45,958 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 14:30:56,155 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 14:30:56,158 httpprotocol.py[line: 53] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/entry/login,值:{"phone":"13168106986","password":"123456"}
+2018-01-17 14:30:56,535 httpprotocol.py[line: 53] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/entry/login,值:{"phone":"13168106986","password":"错误密码"}
+2018-01-17 14:30:56,544 httpprotocol.py[line: 58] ERROR: 发送请求失败，原因：'latin-1' codec can't encode characters in position 35-38: Body ('错误密码') is not valid Latin-1. Use body.encode('utf-8') if you want to send it encoded in UTF-8.
+2018-01-17 14:31:27,490 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 14:31:27,495 httpprotocol.py[line: 53] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/entry/login,值:{"phone":"13168106986","password":"123456"}
+2018-01-17 14:31:27,649 httpprotocol.py[line: 53] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/entry/login,值:{"phone":"13168106986","password":"错误密码"}
+2018-01-17 14:31:27,666 httpprotocol.py[line: 58] ERROR: 发送请求失败，原因：'latin-1' codec can't encode characters in position 35-38: Body ('错误密码') is not valid Latin-1. Use body.encode('utf-8') if you want to send it encoded in UTF-8.
+2018-01-17 14:32:03,054 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 14:32:03,058 httpprotocol.py[line: 53] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/entry/login,值:{"phone":"13168106986","password":"123456"}
+2018-01-17 14:32:03,273 httpprotocol.py[line: 53] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/entry/login,值:{"phone":"13168106986","password":"错误密码"}
+2018-01-17 14:32:03,283 httpprotocol.py[line: 58] ERROR: 发送请求失败，原因：'latin-1' codec can't encode characters in position 35-38: Body ('错误密码') is not valid Latin-1. Use body.encode('utf-8') if you want to send it encoded in UTF-8.
+2018-01-17 14:34:28,306 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 14:34:28,308 httpprotocol.py[line: 53] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/entry/login,值:{'phone': '13168106986', 'password': '123456'}
+2018-01-17 14:35:10,998 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 14:35:40,567 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 14:35:40,570 httpprotocol.py[line: 53] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/entry/login,值:{"phone": "13168106986", "password": "123456"}
+2018-01-17 14:35:57,573 httpprotocol.py[line: 42] INFO: 发起get请求:http://jg.yx.ldsd.cc:8080/smartcommunity/login,值:None
+2018-01-17 14:35:57,717 httpprotocol.py[line: 53] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"cellphone": "13168106986", "password": "123456"}
+2018-01-17 14:36:22,160 httpprotocol.py[line: 42] INFO: 发起get请求:http://jg.yx.ldsd.cc:8080/smartcommunity/login,值:None
+2018-01-17 14:36:22,326 httpprotocol.py[line: 53] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"cellphone": "13168106986", "password": "123456"}
+2018-01-17 14:36:31,465 httpprotocol.py[line: 42] INFO: 发起get请求:http://jg.yx.ldsd.cc:8080/smartcommunity/login,值:None
+2018-01-17 14:36:31,617 httpprotocol.py[line: 53] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"cellphone": "13168106986", "password": "123456"}
+2018-01-17 14:36:46,277 httpprotocol.py[line: 42] INFO: 发起get请求:http://jg.yx.ldsd.cc:8080/smartcommunity/login,值:None
+2018-01-17 14:36:46,428 httpprotocol.py[line: 53] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"cellphone": "13168106986", "password": "123456"}
+2018-01-17 14:37:15,778 httpprotocol.py[line: 42] INFO: 发起get请求:http://jg.yx.ldsd.cc:8080/smartcommunity/login,值:None
+2018-01-17 14:37:15,981 httpprotocol.py[line: 53] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"cellphone": "13168106986", "password": "123456"}
+2018-01-17 14:37:47,851 httpprotocol.py[line: 42] INFO: 发起get请求:http://jg.yx.ldsd.cc:8080/smartcommunity/login,值:None
+2018-01-17 14:37:48,000 httpprotocol.py[line: 53] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"cellphone": "13168106986", "password": "123456"}
+2018-01-17 14:38:53,974 httpprotocol.py[line: 42] INFO: 发起get请求:http://jg.yx.ldsd.cc:8080/smartcommunity/login,值:None
+2018-01-17 14:38:54,225 httpprotocol.py[line: 53] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"cellphone": "13168106986", "password": "123456"}
+2018-01-17 14:38:54,704 httpprotocol.py[line: 53] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"cellphone": "13168106986", "password": "123456"}
+2018-01-17 14:39:03,449 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 14:39:03,451 httpprotocol.py[line: 53] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/entry/login,值:{"phone": "13168106986", "password": "123456"}
+2018-01-17 14:39:31,234 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 14:39:31,235 httpprotocol.py[line: 53] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "123456"}
+2018-01-17 14:41:05,526 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 14:41:05,528 httpprotocol.py[line: 53] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone":"13168106986","password":"123456"}
+2018-01-17 14:41:05,749 httpprotocol.py[line: 53] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone":"13168106986","password":"错误密码"}
+2018-01-17 14:41:05,754 httpprotocol.py[line: 58] ERROR: 发送请求失败，原因：'latin-1' codec can't encode characters in position 35-38: Body ('错误密码') is not valid Latin-1. Use body.encode('utf-8') if you want to send it encoded in UTF-8.
+2018-01-17 14:41:05,774 httpprotocol.py[line: 53] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "123456"}
+2018-01-17 14:42:14,061 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 14:42:14,065 httpprotocol.py[line: 53] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "123456"}
+2018-01-17 14:42:52,520 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 14:42:52,521 httpprotocol.py[line: 53] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:"{\"phone\":\"13168106986\",\"password\":\"123456\"}"
+2018-01-17 14:42:52,796 httpprotocol.py[line: 53] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:"{\"phone\":\"13168106986\",\"password\":\"\u9519\u8bef\u5bc6\u7801\"}"
+2018-01-17 14:42:53,001 httpprotocol.py[line: 53] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "123456"}
+2018-01-17 14:43:48,807 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 14:43:48,810 httpprotocol.py[line: 53] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone":"13168106986","password":"123456"}
+2018-01-17 14:43:49,042 httpprotocol.py[line: 53] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone":"13168106986","password":"错误密码"}
+2018-01-17 14:43:49,052 httpprotocol.py[line: 58] ERROR: 发送请求失败，原因：'latin-1' codec can't encode characters in position 35-38: Body ('错误密码') is not valid Latin-1. Use body.encode('utf-8') if you want to send it encoded in UTF-8.
+2018-01-17 14:43:49,055 httpprotocol.py[line: 53] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "123456"}
+2018-01-17 14:44:58,812 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 14:44:58,813 httpprotocol.py[line: 53] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone":"13168106986","password":"123456"}
+2018-01-17 14:44:59,027 httpprotocol.py[line: 53] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone":"13168106986","password":"1234567890"}
+2018-01-17 14:44:59,223 httpprotocol.py[line: 53] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "123456"}
+2018-01-17 14:45:29,323 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 14:45:29,325 httpprotocol.py[line: 53] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone":"13168106986","password":"123456"}
+2018-01-17 14:45:29,512 httpprotocol.py[line: 53] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone":"13168106986","password":"1234567890"}
+2018-01-17 14:45:29,689 httpprotocol.py[line: 53] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "123456"}
+2018-01-17 15:01:16,884 httpprotocol.py[line: 37] INFO: 发起get请求:http://jg.yx.ldsd.cc:8080/ssmartcommunity/login,值:None
+2018-01-17 15:01:16,884 httpprotocol.py[line: 38] INFO: 请求头为:None
+2018-01-17 15:01:17,039 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"cellphone": "13168106986", "password": "123456"}
+2018-01-17 15:01:17,242 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"cellphone": "13168106986", "password": "123456"}
+2018-01-17 15:02:39,022 httpprotocol.py[line: 37] INFO: 发起get请求:http://jg.yx.ldsd.cc:8080/smartcommunity/login,值:None
+2018-01-17 15:02:39,022 httpprotocol.py[line: 38] INFO: 请求头为:None
+2018-01-17 15:02:39,178 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"cellphone": "13168106986", "password": "123456"}
+2018-01-17 15:03:31,746 httpprotocol.py[line: 37] INFO: 发起get请求:http://jg.yx.ldsd.cc:8080/smartcommunity/login,值:None
+2018-01-17 15:03:31,746 httpprotocol.py[line: 38] INFO: 请求头为:{}
+2018-01-17 15:03:31,897 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"cellphone": "13168106986", "password": "123456"}
+2018-01-17 15:04:40,868 httpprotocol.py[line: 37] INFO: 发起get请求:http://jg.yx.ldsd.cc:8080/smartcommunity/login,值:None
+2018-01-17 15:04:40,868 httpprotocol.py[line: 38] INFO: 请求头为:None
+2018-01-17 15:04:41,018 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"cellphone": "13168106986", "password": "123456"}
+2018-01-17 15:05:35,477 httpprotocol.py[line: 37] INFO: 发起get请求:http://jg.yx.ldsd.cc:8080/smartcommunity/login,值:None
+2018-01-17 15:05:35,477 httpprotocol.py[line: 38] INFO: 请求头为:{}
+2018-01-17 15:05:35,637 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"cellphone": "13168106986", "password": "123456"}
+2018-01-17 15:06:11,281 httpprotocol.py[line: 37] INFO: 发起get请求:http://jg.yx.ldsd.cc:8080/smartcommunity/login,值:None
+2018-01-17 15:06:11,281 httpprotocol.py[line: 38] INFO: 请求头为:None
+2018-01-17 15:06:11,408 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"cellphone": "13168106986", "password": "123456"}
+2018-01-17 15:14:47,503 httpprotocol.py[line: 37] INFO: 发起get请求:http://jg.yx.ldsd.cc:8080/smartcommunity/login,值:None
+2018-01-17 15:14:47,504 httpprotocol.py[line: 38] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 15:14:47,657 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"cellphone": "13168106986", "password": "123456"}
+2018-01-17 15:15:05,303 httpprotocol.py[line: 37] INFO: 发起get请求:http://:8080/smartcommunity/login,值:None
+2018-01-17 15:15:05,303 httpprotocol.py[line: 38] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 15:15:05,305 httpprotocol.py[line: 47] ERROR: 发送请求失败，原因：Invalid URL 'http://:8080/smartcommunity/login': No host supplied,正在进行第二次尝试
+2018-01-17 15:15:05,305 httpprotocol.py[line: 49] ERROR: 发送请求失败，原因：Invalid URL 'http://:8080/smartcommunity/login': No host supplied
+2018-01-17 16:03:06,471 httpprotocol.py[line: 37] INFO: 发起get请求:http://jg.yx.ldsd.cc:8080/smartcommunity/login,值:None
+2018-01-17 16:03:06,471 httpprotocol.py[line: 38] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 16:03:06,642 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"cellphone": "13168106986", "password": "123456"}
+2018-01-17 16:03:06,643 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 16:04:31,288 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 16:04:31,289 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{'phone': '13168106986', 'password': '123456'}
+2018-01-17 16:04:31,290 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 16:04:31,556 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{'phone': '13168106986', 'password': '1234567890'}
+2018-01-17 16:04:31,557 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 16:04:31,736 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "123456"}
+2018-01-17 16:04:31,737 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 16:05:30,780 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 16:05:34,347 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 16:05:34,349 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone":"13168106986","password":"123456"}
+2018-01-17 16:05:34,349 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 16:05:34,569 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone":"13168106986","password":"1234567890"}
+2018-01-17 16:05:34,569 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 16:05:34,767 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "123456"}
+2018-01-17 16:05:34,768 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 16:05:55,213 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 16:05:58,828 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 16:05:58,836 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "123456"}
+2018-01-17 16:05:58,836 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 16:06:12,957 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 16:06:12,964 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "123456"}
+2018-01-17 16:06:12,964 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 16:08:13,469 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 16:08:13,471 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "123456"}
+2018-01-17 16:08:13,471 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 16:08:13,753 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "1234567890"}
+2018-01-17 16:08:13,753 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 16:08:14,021 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "123456"}
+2018-01-17 16:08:14,022 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 16:09:06,284 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 16:09:08,889 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 16:09:08,893 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "123456"}
+2018-01-17 16:09:08,893 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 16:09:25,121 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 16:09:28,463 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 16:09:28,465 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "123456"}
+2018-01-17 16:09:28,465 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 16:10:19,996 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 16:10:20,000 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "123456"}
+2018-01-17 16:10:20,000 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 16:10:38,321 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 16:10:38,328 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "123456"}
+2018-01-17 16:10:38,328 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 16:12:51,113 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 16:12:51,116 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "123456"}
+2018-01-17 16:12:51,117 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 16:13:46,614 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 16:13:56,437 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 16:13:56,440 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{'phone': '13168106986', 'password': '123456'}
+2018-01-17 16:13:56,440 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 16:13:56,638 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{'phone': '13168106986', 'password': '1234567890'}
+2018-01-17 16:13:56,639 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 16:13:56,859 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "123456"}
+2018-01-17 16:13:56,862 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 16:15:20,439 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 16:15:20,441 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{'phone': '13168106986', 'password': '123456'}
+2018-01-17 16:15:20,441 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 16:15:20,686 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{'phone': '13168106986', 'password': '1234567890'}
+2018-01-17 16:15:20,686 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 16:15:20,951 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "123456"}
+2018-01-17 16:15:20,951 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 16:15:51,737 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 16:15:51,738 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{'phone': '13168106986', 'password': '123456'}
+2018-01-17 16:15:51,738 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 16:15:52,109 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{'phone': '13168106986', 'password': '1234567890'}
+2018-01-17 16:15:52,110 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 16:15:52,335 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "123456"}
+2018-01-17 16:15:52,335 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 16:16:19,947 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 16:16:19,948 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "123456"}
+2018-01-17 16:16:19,949 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 16:16:20,174 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "1234567890"}
+2018-01-17 16:16:20,174 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 16:16:20,381 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "123456"}
+2018-01-17 16:16:20,382 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 16:22:48,845 httpprotocol.py[line: 37] INFO: 发起get请求:http://jg.yx.ldsd.cc:8080/smartcommunity/login,值:None
+2018-01-17 16:22:48,846 httpprotocol.py[line: 38] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 16:22:49,014 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"cellphone": "13168106986", "password": "123456"}
+2018-01-17 16:22:49,015 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 16:23:05,809 httpprotocol.py[line: 37] INFO: 发起get请求:http://jg.yx.ldsd.cc:8080/smartcommunity/login,值:None
+2018-01-17 16:23:05,809 httpprotocol.py[line: 38] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 16:23:05,964 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"cellphone": "13168106986", "password": "123456"}
+2018-01-17 16:23:05,965 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 16:23:14,866 httpprotocol.py[line: 37] INFO: 发起get请求:http://jg.yx.ldsd.cc:8080/smartcommunity/login,值:None
+2018-01-17 16:23:14,866 httpprotocol.py[line: 38] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 16:23:15,005 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"cellphone": "13168106986", "password": "123456"}
+2018-01-17 16:23:15,006 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 16:23:20,461 httpprotocol.py[line: 37] INFO: 发起get请求:http://jg.yx.ldsd.cc:8080/smartcommunity/login,值:None
+2018-01-17 16:23:20,461 httpprotocol.py[line: 38] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 16:23:20,606 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"cellphone": "13168106986", "password": "123456"}
+2018-01-17 16:23:20,606 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 17:00:01,626 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 17:00:01,628 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "123456"}
+2018-01-17 17:00:01,628 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 17:00:01,867 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "1234567890"}
+2018-01-17 17:00:01,867 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 17:00:02,062 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "123456"}
+2018-01-17 17:00:02,062 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 17:03:21,978 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 17:03:21,993 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "123456"}
+2018-01-17 17:03:21,994 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 17:03:30,294 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "1234567890"}
+2018-01-17 17:03:30,295 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 17:03:32,806 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "123456"}
+2018-01-17 17:03:32,807 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 17:04:18,316 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 17:04:18,318 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "123456"}
+2018-01-17 17:04:18,318 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 17:04:18,569 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "1234567890"}
+2018-01-17 17:04:18,569 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 17:04:18,775 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "123456"}
+2018-01-17 17:04:18,775 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 17:11:54,820 httpprotocol.py[line: 37] INFO: 发起get请求:http://jg.yx.ldsd.cc:8080/smartcommunity/login,值:None
+2018-01-17 17:11:54,820 httpprotocol.py[line: 38] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 17:11:54,992 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"cellphone": "13168106986", "password": "123456"}
+2018-01-17 17:11:54,993 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 17:12:18,610 httpprotocol.py[line: 37] INFO: 发起get请求:http://jg.yx.ldsd.cc:8080/smartcommunity/login,值:None
+2018-01-17 17:12:18,611 httpprotocol.py[line: 38] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 17:12:18,748 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"cellphone": "13168106986", "password": "123456"}
+2018-01-17 17:12:18,749 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 17:12:46,960 httpprotocol.py[line: 37] INFO: 发起get请求:http://jg.yx.ldsd.cc:8080/smartcommunity/login,值:None
+2018-01-17 17:12:46,960 httpprotocol.py[line: 38] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 17:12:47,144 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"cellphone": "13168106986", "password": "123456"}
+2018-01-17 17:12:47,144 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 17:24:39,113 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 17:24:39,114 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "123456"}
+2018-01-17 17:24:39,114 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 17:24:39,519 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "1234567890"}
+2018-01-17 17:24:39,520 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 17:24:39,722 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "123456"}
+2018-01-17 17:24:39,722 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 21:32:56,243 get_excel.py[line: 15] INFO: 获取xlsx列表,列表名:login
+2018-01-17 21:32:56,258 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "123456"}
+2018-01-17 21:32:56,258 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 21:32:56,849 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "1234567890"}
+2018-01-17 21:32:56,851 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
+2018-01-17 21:32:57,315 httpprotocol.py[line: 55] INFO: 发起post请求:http://jg.yx.ldsd.cc:8080/smartcommunity/user/login,值:{"phone": "13168106986", "password": "123456"}
+2018-01-17 21:32:57,315 httpprotocol.py[line: 56] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; FRD-AL00 Build/HUAWEIFRD-AL00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1', 'Content-type': 'application/json; charset=utf-8'}
