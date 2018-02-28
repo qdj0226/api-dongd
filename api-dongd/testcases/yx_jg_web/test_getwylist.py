@@ -21,8 +21,7 @@ class getWuList(unittest.TestCase):
 
     def test_01(self):
         result = self.my.get(url=self.url)
-        print(result.json())
-        print(result.status_code)
+
 
 
     def test_02(self):
@@ -32,9 +31,7 @@ class getWuList(unittest.TestCase):
         }
         url = "/smartcommunity/login/toLogin"
         result = self.smy.post(url=url,data=data)
-        print(result.json())
         result = self.smy.get(url=self.url)
-        print("list",result.json())
 
 
 if __name__ == '__main__':
