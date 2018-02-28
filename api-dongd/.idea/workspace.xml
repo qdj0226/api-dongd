@@ -44,7 +44,7 @@
       <file leaf-file-name="test_getwylist.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testcases/yx_jg_web/test_getwylist.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
+            <state relative-caret-position="559">
               <caret line="32" column="49" lean-forward="false" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
               <folding>
                 <element signature="e#103#143#0" expanded="true" />
@@ -651,7 +651,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/testcases/yx_jg_web/test_getwylist.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
+        <state relative-caret-position="559">
           <caret line="32" column="49" lean-forward="false" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
           <folding>
             <element signature="e#103#143#0" expanded="true" />
