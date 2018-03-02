@@ -5,6 +5,7 @@ import BSTestRunner
 from subclass.emailing import MyEmail
 from subclass.fileDrive import new_report
 from config.configFile import emailcofig
+from config.configFile import testportsconfig
 
 def all_case(path):
     '''
@@ -34,7 +35,6 @@ def main(path):
     return casecount,failcount,failinfos
 
 def runner(suite,threadname=""):
-    from config.configFile import testportsconfig
     import os
 
     # 设置报告名称及保存路径
@@ -60,9 +60,8 @@ if __name__ == '__main__':
     else:
         runner(run)
     # 获取最新的html文件
-    # latest_file = os.path.abspath(os.path.join(os.path.dirname(__file__),"testreports"))
-    # htmlfile = new_report(latest_file)
+    htmlfile = new_report(testportsconfig)
 
     # 发送报告到指定邮箱
-    # email = MyEmail(emailcofig)
-    # email.send_email(htmlfile)
+    email = MyEmail(emailcofig)
+    email.send_email(htmlfile)
