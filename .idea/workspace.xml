@@ -2,7 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2078f9ee-37fc-4a2f-a7d6-5fd9799aa193" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Main.py" afterPath="$PROJECT_DIR$/Main.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/.idea/api-dongd.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/BSTestRunner.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/Main.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/Windows 照片查看器墙纸.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/config/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/config/casSetConfig.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/config/configFile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/config/emailconfig.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/config/logconfig.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/config/runModeConfig.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/datas/.~lock.apidata.xlsx#" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/datas/apidata.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/logs/20180116.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/logs/20180117.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/logs/20180118.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/logs/20180119.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/logs/20180129.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/logs/20180223.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/logs/20180226.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/logs/20180227.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/requirements.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/subclass/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/subclass/emailing.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/subclass/fileDrive.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/subclass/get_excel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/subclass/httpprotocol.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/subclass/log.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/testcases/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/testcases/lilin_app/test_login.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/testcases/yx_jg_web/test_getwylist.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/testcases/yx_jg_web/test_logincase.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/testreports/lilin_app2018-0227 162803.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/testreports/lilin_app2018-0227 162847.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/testreports/lilin_app2018-0227 172828.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/testreports/yx_jg_web2018-0227 162803.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/testreports/yx_jg_web2018-0227 162847.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api-dongd/testreports/yx_jg_web2018-0227 172828.html" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -340,9 +379,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15658094" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15658094" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32753164" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
