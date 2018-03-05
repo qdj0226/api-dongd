@@ -74,7 +74,6 @@ if __name__ == '__main__':
         # 获取最新的html文件
         list = file_sorting_time(testportsconfig)
         if list is not None :
-            for i in run:
                 # 获取最新的html文件
                 htmlfile = list.pop(-1)
                 htmlfile = os.path.join(testportsconfig, htmlfile)
