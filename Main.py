@@ -3,7 +3,7 @@ __author__ = "dongd"
 import unittest,time
 import BSTestRunner
 from subclass.emailing import MyEmail
-from subclass.fileDrive import new_report
+from subclass.fileDrive import file_sorting_time
 from config.configFile import emailcofig
 from config.configFile import testportsconfig
 
@@ -39,7 +39,7 @@ def runner(suite,threadname=""):
 
     # 设置报告名称及保存路径
     now = time.strftime('%Y-%m%d %H%M%S', time.localtime(time.time()))
-    file = os.path.join(testportsconfig, ( threadname + now +'.html'))
+    file = os.path.join(testportsconfig, (threadname + now +'.html'))
     re_open = open(file, 'wb')
     # 实例化BSTestRunner,执行脚本
     runner = BSTestRunner.BSTestRunner(stream=re_open, title='接口测试报告', description='测试结果')
@@ -49,7 +49,6 @@ def runner(suite,threadname=""):
 
 if __name__ == '__main__':
     from config.casSetConfig import *
-
     if isinstance(run,list):
         import multiprocessing
         conunt = 0
@@ -57,11 +56,19 @@ if __name__ == '__main__':
             projectname = i.split("\\")[-1]
             thread = multiprocessing.Process(target=runner, args=(i,projectname))
             thread.start()
+        list = file_sorting_time(testportsconfig)
+        for i in run:
+            # 获取最新的html文件
+            htmlfile = list.pop(-1)
+            htmlfile = os.path.join(testportsconfig, htmlfile)
+            # 发送报告到指定邮箱
+            email = MyEmail(emailcofig)
+            email.send_email(htmlfile)
     else:
         runner(run)
-    # 获取最新的html文件
-    htmlfile = new_report(testportsconfig)
-
-    # 发送报告到指定邮箱
-    email = MyEmail(emailcofig)
-    email.send_email(htmlfile)
+        # 获取最新的html文件
+        htmlfile = file_sorting_time(testportsconfig).pop(-1)
+        htmlfile = os.path.join(testportsconfig, htmlfile)
+        # 发送报告到指定邮箱
+        email = MyEmail(emailcofig)
+        email.send_email(htmlfile)

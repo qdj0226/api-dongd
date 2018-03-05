@@ -150,9 +150,9 @@ function showOutput(id, name) {
 <div class="container">
     <div class='heading'>
 <h1>接口测试报告</h1>
-<p><strong>Start Time:</strong> 2018-03-01 16:55:54</p>
-<p><strong>Duration:</strong> 0:00:00.042000</p>
-<p><strong>Status:</strong> <span class="text text-warning">Error <strong>1</strong></span></p>
+<p><strong>Start Time:</strong> 2018-03-05 09:36:23</p>
+<p><strong>Duration:</strong> 0:00:01.424000</p>
+<p><strong>Status:</strong> <span class="text text-success">Pass <strong>1</strong></span></p>
 
 <p class='description'>测试结果</p>
 </div>
@@ -177,42 +177,31 @@ function showOutput(id, name) {
     </thead>
     <tbody>
         
-<tr class='text text-warning'>
-    <td>unittest.loader._FailedTest</td>
+<tr class='text text-success'>
+    <td>test_login.Login</td>
+    <td>1</td>
     <td>1</td>
     <td>0</td>
     <td>0</td>
-    <td>1</td>
     <td><a class="btn btn-xs btn-primary"href="javascript:showClassDetail('c1',1)">Detail</a></td>
 </tr>
 
-<tr id='ft1.1' class='none'>
-    <td class='text text-warning'><div class='testcases'>test_login</div></td>
+<tr id='pt1.1' class='hiddenRow'>
+    <td class='text text-success'><div class='testcases'>test_01</div></td>
     <td colspan='5' align='center'>
 
     <!--css div popup start-->
-    <a class="popup_link btn btn-xs btn-default" onfocus='this.blur();' href="javascript:showTestDetail('div_ft1.1')" >
-        error</a>
+    <a class="popup_link btn btn-xs btn-default" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.1')" >
+        pass</a>
 
-    <div id='div_ft1.1' class="popup_window">
+    <div id='div_pt1.1' class="popup_window">
         <div style='text-align: right;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_ft1.1').style.display = 'none' " >
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.1').style.display = 'none' " >
            [x]</a>
         </div>
         <pre>
         
-ft1.1: ImportError: Failed to import test module: test_login
-Traceback (most recent call last):
-  File "d:\program files\python36\Lib\unittest\loader.py", line 428, in _find_test_path
-    module = self._get_module_from_name(name)
-  File "d:\program files\python36\Lib\unittest\loader.py", line 369, in _get_module_from_name
-    __import__(name)
-  File "F:\project\api-dongd\testcases\lilin_app\test_login.py", line 7, in &lt;module&gt;
-    from subclass.httpprotocol import MyHttp
-  File "F:\project\api-dongd\subclass\httpprotocol.py", line 5, in &lt;module&gt;
-    import requests
-ModuleNotFoundError: No module named 'requests'
-
+pt1.1: {'msg': '请求成功', 'data': {'organizationName': '滨海花园', 'devicesList': [{'Name': '测试机@QYDOOR-4CF0'}, {'Name': '测试2号@QYDOOR-3B83'}, {'Name': '20型主机'}], 'type': 2, 'managerName': '邱东京'}, 'httpCode': 200, 'timestamp': 1520213803966}
 
 
         </pre>
@@ -227,9 +216,9 @@ ModuleNotFoundError: No module named 'requests'
         <tr id='total_row'>
             <td>Total</td>
             <td>1</td>
-            <td class="text text-success">0</td>
+            <td class="text text-success">1</td>
             <td class="text text-danger">0</td>
-            <td class="text text-warning">1</td>
+            <td class="text text-warning">0</td>
             <td>&nbsp;</td>
         </tr>
     </tfoot>

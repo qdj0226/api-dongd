@@ -150,9 +150,9 @@ function showOutput(id, name) {
 <div class="container">
     <div class='heading'>
 <h1>接口测试报告</h1>
-<p><strong>Start Time:</strong> 2018-03-01 16:55:54</p>
-<p><strong>Duration:</strong> 0:00:00.088000</p>
-<p><strong>Status:</strong> <span class="text text-warning">Error <strong>2</strong></span></p>
+<p><strong>Start Time:</strong> 2018-03-05 09:08:44</p>
+<p><strong>Duration:</strong> 0:00:00.194000</p>
+<p><strong>Status:</strong> <span class="text text-success">Pass <strong>3</strong></span></p>
 
 <p class='description'>测试结果</p>
 </div>
@@ -177,42 +177,32 @@ function showOutput(id, name) {
     </thead>
     <tbody>
         
-<tr class='text text-warning'>
-    <td>unittest.loader._FailedTest</td>
+<tr class='text text-success'>
+    <td>test_getwylist.getWuList</td>
+    <td>2</td>
     <td>2</td>
     <td>0</td>
     <td>0</td>
-    <td>2</td>
     <td><a class="btn btn-xs btn-primary"href="javascript:showClassDetail('c1',2)">Detail</a></td>
 </tr>
 
-<tr id='ft1.1' class='none'>
-    <td class='text text-warning'><div class='testcases'>test_getwylist</div></td>
+<tr id='pt1.1' class='hiddenRow'>
+    <td class='text text-success'><div class='testcases'>test_01</div></td>
     <td colspan='5' align='center'>
 
     <!--css div popup start-->
-    <a class="popup_link btn btn-xs btn-default" onfocus='this.blur();' href="javascript:showTestDetail('div_ft1.1')" >
-        error</a>
+    <a class="popup_link btn btn-xs btn-default" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.1')" >
+        pass</a>
 
-    <div id='div_ft1.1' class="popup_window">
+    <div id='div_pt1.1' class="popup_window">
         <div style='text-align: right;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_ft1.1').style.display = 'none' " >
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.1').style.display = 'none' " >
            [x]</a>
         </div>
         <pre>
         
-ft1.1: ImportError: Failed to import test module: test_getwylist
-Traceback (most recent call last):
-  File "d:\program files\python36\Lib\unittest\loader.py", line 428, in _find_test_path
-    module = self._get_module_from_name(name)
-  File "d:\program files\python36\Lib\unittest\loader.py", line 369, in _get_module_from_name
-    __import__(name)
-  File "F:\project\api-dongd\testcases\yx_jg_web\test_getwylist.py", line 7, in &lt;module&gt;
-    from subclass.httpprotocol import MyHttp
-  File "F:\project\api-dongd\subclass\httpprotocol.py", line 5, in &lt;module&gt;
-    import requests
-ModuleNotFoundError: No module named 'requests'
-
+pt1.1: {'args': {}, 'returnCode': 401}
+200
 
 
         </pre>
@@ -222,33 +212,57 @@ ModuleNotFoundError: No module named 'requests'
     </td>
 </tr>
 
-<tr id='ft1.2' class='none'>
-    <td class='text text-warning'><div class='testcases'>test_logincase</div></td>
+<tr id='pt1.2' class='hiddenRow'>
+    <td class='text text-success'><div class='testcases'>test_02</div></td>
     <td colspan='5' align='center'>
 
     <!--css div popup start-->
-    <a class="popup_link btn btn-xs btn-default" onfocus='this.blur();' href="javascript:showTestDetail('div_ft1.2')" >
-        error</a>
+    <a class="popup_link btn btn-xs btn-default" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.2')" >
+        pass</a>
 
-    <div id='div_ft1.2' class="popup_window">
+    <div id='div_pt1.2' class="popup_window">
         <div style='text-align: right;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_ft1.2').style.display = 'none' " >
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.2').style.display = 'none' " >
            [x]</a>
         </div>
         <pre>
         
-ft1.2: ImportError: Failed to import test module: test_logincase
-Traceback (most recent call last):
-  File "d:\program files\python36\Lib\unittest\loader.py", line 428, in _find_test_path
-    module = self._get_module_from_name(name)
-  File "d:\program files\python36\Lib\unittest\loader.py", line 369, in _get_module_from_name
-    __import__(name)
-  File "F:\project\api-dongd\testcases\yx_jg_web\test_logincase.py", line 6, in &lt;module&gt;
-    from subclass.httpprotocol import MyHttp
-  File "F:\project\api-dongd\subclass\httpprotocol.py", line 5, in &lt;module&gt;
-    import requests
-ModuleNotFoundError: No module named 'requests'
+pt1.2: {'errorCode': 0, 'errorMsg': '登录成功', 'data': {}}
+list {'errorCode': 0, 'errorMsg': None, 'data': {'provinceList': [{'id': 0, 'province': '北京', 'city': None, 'areacode': None}, {'id': 0, 'province': '上海', 'city': None, 'areacode': None}, {'id': 0, 'province': '天津', 'city': None, 'areacode': None}, {'id': 0, 'province': '重庆', 'city': None, 'areacode': None}, {'id': 0, 'province': '河北', 'city': None, 'areacode': None}, {'id': 0, 'province': '浙江', 'city': None, 'areacode': None}, {'id': 0, 'province': '辽宁', 'city': None, 'areacode': None}, {'id': 0, 'province': '湖北', 'city': None, 'areacode': None}, {'id': 0, 'province': '江苏', 'city': None, 'areacode': None}, {'id': 0, 'province': '内蒙古', 'city': None, 'areacode': None}, {'id': 0, 'province': '江西', 'city': None, 'areacode': None}, {'id': 0, 'province': '山西', 'city': None, 'areacode': None}, {'id': 0, 'province': '甘肃', 'city': None, 'areacode': None}, {'id': 0, 'province': '山东', 'city': None, 'areacode': None}, {'id': 0, 'province': '黑龙江', 'city': None, 'areacode': None}, {'id': 0, 'province': '福建', 'city': None, 'areacode': None}, {'id': 0, 'province': '广东', 'city': None, 'areacode': None}, {'id': 0, 'province': '四川', 'city': None, 'areacode': None}, {'id': 0, 'province': '湖南', 'city': None, 'areacode': None}, {'id': 0, 'province': '河南', 'city': None, 'areacode': None}, {'id': 0, 'province': '云南', 'city': None, 'areacode': None}, {'id': 0, 'province': '安徽', 'city': None, 'areacode': None}, {'id': 0, 'province': '吉林', 'city': None, 'areacode': None}, {'id': 0, 'province': '广西', 'city': None, 'areacode': None}, {'id': 0, 'province': '贵州', 'city': None, 'areacode': None}, {'id': 0, 'province': '陕西', 'city': None, 'areacode': None}, {'id': 0, 'province': '青海', 'city': None, 'areacode': None}, {'id': 0, 'province': '宁夏', 'city': None, 'areacode': None}, {'id': 0, 'province': '海南', 'city': None, 'areacode': None}, {'id': 0, 'province': '西藏', 'city': None, 'areacode': None}, {'id': 0, 'province': '新疆', 'city': None, 'areacode': None}], 'sidebar': 'property', 'list': [{'pmPassword': 'b87ec93d8eb79a2f312425ff0760b6ca', 'createTime': '2017-05-24 11:55:21', 'name': '名特物业', 'pmCellPhone': '13700000000', 'description': '', 'id': '1', 'pmName': '名特物业'}, {'pmPassword': 'e10adc3949ba59abbe56e057f20f883e', 'createTime': '2017-05-25 10:26:43', 'name': '越秀物业', 'pmCellPhone': '13600000000', 'description': '', 'id': '2', 'pmName': '越秀物业'}, {'pmPassword': '', 'createTime': '2017-09-06 09:49:53', 'name': '321`', 'pmCellPhone': '', 'description': '', 'id': '3', 'pmName': ''}]}}
 
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr class='text text-success'>
+    <td>test_logincase.LoginCase</td>
+    <td>1</td>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>
+    <td><a class="btn btn-xs btn-primary"href="javascript:showClassDetail('c2',1)">Detail</a></td>
+</tr>
+
+<tr id='pt2.1' class='hiddenRow'>
+    <td class='text text-success'><div class='testcases'>test_01</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link btn btn-xs btn-default" onfocus='this.blur();' href="javascript:showTestDetail('div_pt2.1')" >
+        pass</a>
+
+    <div id='div_pt2.1' class="popup_window">
+        <div style='text-align: right;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt2.1').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt2.1: 0
 
 
         </pre>
@@ -262,10 +276,10 @@ ModuleNotFoundError: No module named 'requests'
     <tfoot>
         <tr id='total_row'>
             <td>Total</td>
-            <td>2</td>
-            <td class="text text-success">0</td>
+            <td>3</td>
+            <td class="text text-success">3</td>
             <td class="text text-danger">0</td>
-            <td class="text text-warning">2</td>
+            <td class="text text-warning">0</td>
             <td>&nbsp;</td>
         </tr>
     </tfoot>

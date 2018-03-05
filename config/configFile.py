@@ -9,3 +9,9 @@ import os
 emailcofig = os.path.abspath(os.path.join(os.path.dirname(__file__),"emailconfig.ini"))
 logconfig = os.path.abspath(os.path.join(os.path.dirname(__file__),"logconfig.ini"))
 testportsconfig = os.path.abspath(os.path.join(os.path.dirname(__file__),"../","testreports"))
+
+
+if __name__ == '__main__':
+    print(testportsconfig)
+    print(logconfig)
+    print(emailcofig)

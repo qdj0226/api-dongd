@@ -1,0 +1,24 @@
+2018-03-03 23:35:19,070 test_login.py[line: 13] INFO: settest...
+2018-03-03 23:35:19,070 httpprotocol.py[line: 83] INFO: 发起post请求:http://192.168.1.121:8080/yy-door-web-leelen//entry/login,值:{"phone": "13168106986", "password": "123456"}
+2018-03-03 23:35:19,071 httpprotocol.py[line: 84] INFO: 请求头为:{'Content-Type': 'application/json'}
+2018-03-03 23:35:19,084 test_getwylist.py[line: 14] INFO: runtest...
+2018-03-03 23:35:19,085 httpprotocol.py[line: 49] INFO: 发起get请求:http://192.168.1.120:80/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-03 23:35:19,085 httpprotocol.py[line: 50] INFO: 请求头为:None
+2018-03-03 23:35:40,158 httpprotocol.py[line: 59] ERROR: 发送请求失败，原因：HTTPConnectionPool(host='192.168.1.120', port=80): Max retries exceeded with url: /smartcommunity/propertymanagement/list?isSeparate=true (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000369A2B0>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)),正在进行第二次尝试
+2018-03-03 23:35:40,158 httpprotocol.py[line: 93] ERROR: 发送请求失败，原因：HTTPConnectionPool(host='192.168.1.121', port=8080): Max retries exceeded with url: /yy-door-web-leelen//entry/login (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003697E48>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)),正在进行第二次尝试
+2018-03-03 23:36:01,167 httpprotocol.py[line: 61] ERROR: 发送请求失败，原因：HTTPConnectionPool(host='192.168.1.120', port=80): Max retries exceeded with url: /smartcommunity/propertymanagement/list?isSeparate=true (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000369A9B0>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',))
+2018-03-03 23:36:01,167 httpprotocol.py[line: 95] ERROR: 发送请求失败，原因：HTTPConnectionPool(host='192.168.1.121', port=8080): Max retries exceeded with url: /yy-door-web-leelen//entry/login (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000036B95C0>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',))
+2018-03-03 23:36:01,167 test_getwylist.py[line: 20] INFO: outtest
+2018-03-03 23:36:01,168 test_login.py[line: 18] INFO: outtest...
+2018-03-03 23:36:01,207 test_getwylist.py[line: 14] INFO: runtest...
+2018-03-03 23:36:01,208 httpprotocol.py[line: 68] INFO: 发起post请求(session):http://192.168.1.120:80/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-03 23:36:01,208 httpprotocol.py[line: 69] INFO: 请求头为:None
+2018-03-03 23:36:22,223 httpprotocol.py[line: 78] ERROR: 发送请求失败，原因：HTTPConnectionPool(host='192.168.1.120', port=80): Max retries exceeded with url: /smartcommunity/login/toLogin (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000036B81D0>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)),正在进行第二次尝试
+2018-03-03 23:36:43,236 httpprotocol.py[line: 80] ERROR: 发送请求失败，原因：HTTPConnectionPool(host='192.168.1.120', port=80): Max retries exceeded with url: /smartcommunity/login/toLogin (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000036B84E0>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',))
+2018-03-03 23:36:43,236 test_getwylist.py[line: 20] INFO: outtest
+2018-03-03 23:36:43,237 test_logincase.py[line: 12] INFO: login测试开始。。。
+2018-03-03 23:36:43,237 httpprotocol.py[line: 83] INFO: 发起post请求:http://192.168.1.120:80/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-03 23:36:43,238 httpprotocol.py[line: 84] INFO: 请求头为:None
+2018-03-03 23:37:04,248 httpprotocol.py[line: 93] ERROR: 发送请求失败，原因：HTTPConnectionPool(host='192.168.1.120', port=80): Max retries exceeded with url: /smartcommunity/login/toLogin (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003686DA0>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',)),正在进行第二次尝试
+2018-03-03 23:37:25,251 httpprotocol.py[line: 95] ERROR: 发送请求失败，原因：HTTPConnectionPool(host='192.168.1.120', port=80): Max retries exceeded with url: /smartcommunity/login/toLogin (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000036B85F8>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',))
+2018-03-03 23:37:25,252 test_logincase.py[line: 17] INFO: login测试结束。。。

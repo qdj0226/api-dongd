@@ -17,4 +17,4 @@ server = {
     "lilin_app_server":"192.168.1.121:8080",
 }
 
-run = [yx_jg_web,lilin_app]
+run = yx_jg_web
