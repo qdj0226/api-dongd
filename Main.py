@@ -57,18 +57,31 @@ if __name__ == '__main__':
             thread = multiprocessing.Process(target=runner, args=(i,projectname))
             thread.start()
         list = file_sorting_time(testportsconfig)
-        for i in run:
-            # 获取最新的html文件
-            htmlfile = list.pop(-1)
-            htmlfile = os.path.join(testportsconfig, htmlfile)
-            # 发送报告到指定邮箱
-            email = MyEmail(emailcofig)
-            email.send_email(htmlfile)
+        if list is not None :
+            for i in run:
+                # 获取最新的html文件
+                htmlfile = list.pop(-1)
+                htmlfile = os.path.join(testportsconfig, htmlfile)
+                # 发送报告到指定邮箱
+                email = MyEmail(emailcofig)
+                email.send_email(htmlfile)
+        elif list is None:
+            print("没有报告可以发送")
+        else:
+            print("发送失败")
     else:
         runner(run)
         # 获取最新的html文件
-        htmlfile = file_sorting_time(testportsconfig).pop(-1)
-        htmlfile = os.path.join(testportsconfig, htmlfile)
-        # 发送报告到指定邮箱
-        email = MyEmail(emailcofig)
-        email.send_email(htmlfile)
+        list = file_sorting_time(testportsconfig)
+        if list is not None :
+            for i in run:
+                # 获取最新的html文件
+                htmlfile = list.pop(-1)
+                htmlfile = os.path.join(testportsconfig, htmlfile)
+                # 发送报告到指定邮箱
+                email = MyEmail(emailcofig)
+                email.send_email(htmlfile)
+        elif list is None:
+            print("没有报告可以发送")
+        else:
+            print("发送失败")
