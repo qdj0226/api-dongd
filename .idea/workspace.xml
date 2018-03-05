@@ -2,32 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2078f9ee-37fc-4a2f-a7d6-5fd9799aa193" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test_.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testreports/2018-0305 090844.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testreports/2018-0305 094501.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testreports/lilin_app2018-0305 090606.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testreports/lilin_app2018-0305 090710.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testreports/lilin_app2018-0305 091016.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testreports/lilin_app2018-0305 091232.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testreports/lilin_app2018-0305 091608.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testreports/lilin_app2018-0305 093623.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testreports/lilin_app2018-0305 093824.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testreports/lilin_app2018-0305 093854.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testreports/lilin_app2018-0305 094217.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testreports/lilin_app2018-0305 094317.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testreports/yx_jg_web2018-0305 090606.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testreports/yx_jg_web2018-0305 090710.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testreports/yx_jg_web2018-0305 091015.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testreports/yx_jg_web2018-0305 091231.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testreports/yx_jg_web2018-0305 091607.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testreports/yx_jg_web2018-0305 093622.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testreports/yx_jg_web2018-0305 093824.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testreports/yx_jg_web2018-0305 093854.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testreports/yx_jg_web2018-0305 094217.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testreports/yx_jg_web2018-0305 094317.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testreports/test.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Main.py" afterPath="$PROJECT_DIR$/Main.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -80,6 +56,16 @@
               <folding>
                 <element signature="e#22#42#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testreports/test.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -337,7 +323,14 @@
       <option name="project" value="LOCAL" />
       <updated>1520215498896</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="py36-api测试框架">
+      <created>1520216172013</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1520216172013</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -406,7 +399,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="py36-api测试框架" />
+    <option name="LAST_COMMIT_MESSAGE" value="py36-api测试框架" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -415,7 +409,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/testreports/2018-0227 1413061.html" />
     <entry file="file://$PROJECT_DIR$/testreports/2018-0227 1413421.html" />
     <entry file="file://$PROJECT_DIR$/testreports/2018-0227 1413062.html" />
     <entry file="file://$PROJECT_DIR$/testreports/2018-0227 1413581.html" />
@@ -658,6 +651,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test_.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testreports/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
@@ -665,14 +674,6 @@
           <folding>
             <element signature="e#22#42#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
