@@ -1,0 +1,8 @@
+2018-03-07 15:58:19,456 httpprotocol.py[line: 85] INFO: 发起post请求:http://jg.yx.ldsd.c/smartcommunity/login/toLogin,值:loginName=admin&password=Adminmint&isSeparate=true
+2018-03-07 15:58:19,456 httpprotocol.py[line: 86] INFO: 请求头为:None
+2018-03-07 20:51:37,246 httpprotocol.py[line: 85] INFO: 发起post请求:http://jg.yx.ldsd.c/smartcommunity/login/toLogin,值:loginName=admin&password=Adminmint&isSeparate=true
+2018-03-07 20:51:37,246 httpprotocol.py[line: 86] INFO: 请求头为:None
+2018-03-07 20:53:13,334 httpprotocol.py[line: 85] INFO: 发起post请求:http://jg.yx.ldsd.c/smartcommunity/login/toLogin,值:loginName=admin&password=Adminmint&isSeparate=true
+2018-03-07 20:53:13,334 httpprotocol.py[line: 86] INFO: 请求头为:None
+2018-03-07 20:53:48,134 httpprotocol.py[line: 85] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:loginName=admin&password=Adminmint&isSeparate=true
+2018-03-07 20:53:48,134 httpprotocol.py[line: 86] INFO: 请求头为:None

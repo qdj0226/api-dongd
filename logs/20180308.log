@@ -1,0 +1,90 @@
+2018-03-08 14:33:55,223 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-08 14:33:55,223 httpprotocol.py[line: 85] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-08 14:33:55,223 httpprotocol.py[line: 86] INFO: 请求头为:None
+2018-03-08 14:33:55,367 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-08 17:07:46,562 test_.py[line: 38] INFO: 发起get请求(session):http://192.168.1.120:80/smartcommunity/login/toLogin,值:loginName=admin&password=Adminmint
+2018-03-08 17:07:46,621 test_.py[line: 40] INFO: 请求头为:{'Set-Cookie': 'JSESSIONID=08001D9F71C495E86D9C72B0FC3745CA; Path=/smartcommunity; HttpOnly', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 08 Mar 2018 09:08:07 GMT'}
+2018-03-08 17:10:00,630 test_.py[line: 38] INFO: 发起post请求(session):http://192.168.1.120:80/smartcommunity/login/toLogin,值:loginName=admin&password=Adminmint
+2018-03-08 17:10:00,684 test_.py[line: 40] INFO: 请求头为:{'Set-Cookie': 'JSESSIONID=51642E1D02ED4095BDFCB80B7324C6CA; Path=/smartcommunity; HttpOnly', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 08 Mar 2018 09:10:21 GMT'}
+2018-03-08 17:10:00,684 test_.py[line: 72] INFO: 发起get请求(session):http://192.168.1.120:80/smartcommunity/administratormanagement/mainlist?isSeparate=true,值:None
+2018-03-08 17:10:00,697 test_.py[line: 74] INFO: 请求头为:{'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '28', 'Date': 'Thu, 08 Mar 2018 09:10:21 GMT'}
+2018-03-08 17:10:15,838 test_.py[line: 38] INFO: 发起post请求(session):http://192.168.1.120:80/smartcommunity/login/toLogin,值:loginName=admin&password=Adminmint
+2018-03-08 17:10:15,892 test_.py[line: 40] INFO: 请求头为:{'Set-Cookie': 'JSESSIONID=06FD44231C18AB82D1B3E0D2A2C6162B; Path=/smartcommunity; HttpOnly', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 08 Mar 2018 09:10:36 GMT'}
+2018-03-08 17:10:15,892 test_.py[line: 72] INFO: 发起get请求(session):http://192.168.1.120:80/smartcommunity/administratormanagement/mainlist?isSeparate=true,值:None
+2018-03-08 17:10:15,901 test_.py[line: 74] INFO: 请求头为:{'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '28', 'Date': 'Thu, 08 Mar 2018 09:10:36 GMT'}
+2018-03-08 17:13:18,844 test_.py[line: 23] INFO: 发起get请求(session):http://192.168.1.120:80/smartcommunity/login/toLogin,值:loginName=admin&password=Adminmint
+2018-03-08 17:13:18,891 test_.py[line: 25] INFO: 请求头为:{'Set-Cookie': 'JSESSIONID=FF4AA4CB68840ACF917F7CE582A7D6C1; Path=/smartcommunity; HttpOnly', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 08 Mar 2018 09:13:39 GMT'}
+2018-03-08 17:13:18,891 test_.py[line: 57] INFO: 发起post请求:http://192.168.1.120:80/smartcommunity/administratormanagement/mainlist?isSeparate=true,值:None
+2018-03-08 17:13:18,899 test_.py[line: 59] INFO: 请求头为:{'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '28', 'Date': 'Thu, 08 Mar 2018 09:13:39 GMT'}
+2018-03-08 17:13:56,671 test_.py[line: 23] INFO: 发起get请求(session):http://192.168.1.120:80/smartcommunity/login/toLogin,值:loginName=admin&password=Adminmint
+2018-03-08 17:13:56,718 test_.py[line: 25] INFO: 请求头为:{'Set-Cookie': 'JSESSIONID=7D782FF85D39BC406D58D88C65D8C06C; Path=/smartcommunity; HttpOnly', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 08 Mar 2018 09:14:17 GMT'}
+2018-03-08 17:13:56,719 test_.py[line: 57] INFO: 发起post请求:http://192.168.1.120:80/smartcommunity/administratormanagement/mainlist?isSeparate=true,值:None
+2018-03-08 17:13:56,724 test_.py[line: 59] INFO: 请求头为:{'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '28', 'Date': 'Thu, 08 Mar 2018 09:14:17 GMT'}
+2018-03-08 17:14:22,063 test_.py[line: 23] INFO: 发起get请求(session):http://192.168.1.120:80/smartcommunity/login/toLogin,值:loginName=admin&password=Adminmint
+2018-03-08 17:14:22,104 test_.py[line: 25] INFO: 请求头为:{'Set-Cookie': 'JSESSIONID=5418BFB04E26DFB5B13A6248BC387B4A; Path=/smartcommunity; HttpOnly', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 08 Mar 2018 09:14:42 GMT'}
+2018-03-08 17:14:22,104 test_.py[line: 57] INFO: 发起post请求:http://192.168.1.120:80/smartcommunity/administratormanagement/mainlist?isSeparate=true,值:None
+2018-03-08 17:14:22,108 test_.py[line: 59] INFO: 请求头为:{'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '28', 'Date': 'Thu, 08 Mar 2018 09:14:42 GMT'}
+2018-03-08 17:14:42,095 test_.py[line: 23] INFO: 发起get请求(session):http://192.168.1.120:80/smartcommunity/login/toLogin,值:loginName=admin&password=Adminmint
+2018-03-08 17:14:42,135 test_.py[line: 25] INFO: 请求头为:{'Set-Cookie': 'JSESSIONID=A90493E771273095E14ADD1F3A11C00B; Path=/smartcommunity; HttpOnly', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 08 Mar 2018 09:15:02 GMT'}
+2018-03-08 17:14:42,136 test_.py[line: 57] INFO: 发起post请求:http://192.168.1.120:80/smartcommunity/administratormanagement/mainlist?isSeparate=true,值:None
+2018-03-08 17:14:42,148 test_.py[line: 59] INFO: 请求头为:{'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '28', 'Date': 'Thu, 08 Mar 2018 09:15:02 GMT'}
+2018-03-08 17:14:52,431 test_.py[line: 23] INFO: 发起get请求(session):http://192.168.1.120:80/smartcommunity/login/toLogin,值:loginName=admin&password=Adminmint
+2018-03-08 17:14:52,471 test_.py[line: 25] INFO: 请求头为:{'Set-Cookie': 'JSESSIONID=5E4D36DC43DA445962309116E79D50AA; Path=/smartcommunity; HttpOnly', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 08 Mar 2018 09:15:13 GMT'}
+2018-03-08 17:14:52,471 test_.py[line: 57] INFO: 发起post请求:http://192.168.1.120:80/smartcommunity/administratormanagement/mainlist?isSeparate=true,值:None
+2018-03-08 17:14:52,479 test_.py[line: 59] INFO: 请求头为:{'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '28', 'Date': 'Thu, 08 Mar 2018 09:15:13 GMT'}
+2018-03-08 17:15:14,486 test_.py[line: 23] INFO: 发起get请求(session):http://192.168.1.120:80/smartcommunity/login/toLogin,值:loginName=admin&password=Adminmint
+2018-03-08 17:15:14,531 test_.py[line: 25] INFO: 请求头为:{'Set-Cookie': 'JSESSIONID=55E652FCCAEF276D3688F75810503142; Path=/smartcommunity; HttpOnly', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 08 Mar 2018 09:15:35 GMT'}
+2018-03-08 17:15:14,532 test_.py[line: 57] INFO: 发起post请求:http://192.168.1.120:80/smartcommunity/administratormanagement/mainlist?isSeparate=true,值:None
+2018-03-08 17:15:14,540 test_.py[line: 59] INFO: 请求头为:{'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '28', 'Date': 'Thu, 08 Mar 2018 09:15:35 GMT'}
+2018-03-08 17:21:12,695 httpprotocol.py[line: 104] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:loginName=admin&password=Adminmint
+2018-03-08 17:21:12,695 httpprotocol.py[line: 105] INFO: 请求头为:None
+2018-03-08 17:21:12,833 httpprotocol.py[line: 70] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/administratormanagement/mainlist?isSeparate=true,值:None
+2018-03-08 17:21:12,833 httpprotocol.py[line: 71] INFO: 请求头为:None
+2018-03-08 17:23:14,639 httpprotocol.py[line: 104] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:loginName=admin&password=Adminmint
+2018-03-08 17:23:14,639 httpprotocol.py[line: 105] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.104 Safari/537.36 Core/1.53.4620.400 QQBrowser/9.7.13014.400'}
+2018-03-08 17:23:14,735 httpprotocol.py[line: 70] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/administratormanagement/mainlist?isSeparate=true,值:None
+2018-03-08 17:23:14,735 httpprotocol.py[line: 71] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.104 Safari/537.36 Core/1.53.4620.400 QQBrowser/9.7.13014.400'}
+2018-03-08 17:24:36,955 httpprotocol.py[line: 104] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:loginName=admin&password=Adminmint
+2018-03-08 17:24:36,956 httpprotocol.py[line: 105] INFO: 请求头为:{'User-Agent': 'PostmanRuntime/7.1.1'}
+2018-03-08 17:24:37,004 httpprotocol.py[line: 70] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/administratormanagement/mainlist?isSeparate=true,值:None
+2018-03-08 17:24:37,004 httpprotocol.py[line: 71] INFO: 请求头为:{'User-Agent': 'PostmanRuntime/7.1.1'}
+2018-03-08 17:25:36,588 httpprotocol.py[line: 104] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:loginName=admin&password=Adminmint
+2018-03-08 17:25:36,588 httpprotocol.py[line: 105] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.104 Safari/537.36 Core/1.53.4620.400 QQBrowser/9.7.13014.400', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'}
+2018-03-08 17:25:36,636 httpprotocol.py[line: 70] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/administratormanagement/mainlist?isSeparate=true,值:None
+2018-03-08 17:25:36,636 httpprotocol.py[line: 71] INFO: 请求头为:{'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.104 Safari/537.36 Core/1.53.4620.400 QQBrowser/9.7.13014.400', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'}
+2018-03-08 17:31:02,036 test_.py[line: 23] INFO: 发起get请求(session):http://192.168.1.120:80/smartcommunity/login/toLogin,值:loginName=admin&password=Adminmint
+2018-03-08 17:31:02,078 test_.py[line: 25] INFO: 请求头为:{'Set-Cookie': 'JSESSIONID=3BAAC667C63D29A6847AF7F724F89CC5; Path=/smartcommunity; HttpOnly', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 08 Mar 2018 09:31:22 GMT'}
+2018-03-08 17:31:02,078 test_.py[line: 57] INFO: 发起post请求:http://192.168.1.120:80/smartcommunity/administratormanagement/mainlist?isSeparate=true,值:None
+2018-03-08 17:31:02,085 test_.py[line: 59] INFO: 请求头为:{'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '28', 'Date': 'Thu, 08 Mar 2018 09:31:22 GMT'}
+2018-03-08 17:31:12,031 test_.py[line: 23] INFO: 发起get请求(session):http://192.168.1.120:80/smartcommunity/login/toLogin,值:loginName=admin&password=Adminmint
+2018-03-08 17:31:12,084 test_.py[line: 25] INFO: 请求头为:{'Set-Cookie': 'JSESSIONID=D3CE1D32E8E11832FEFBE48E0594065D; Path=/smartcommunity; HttpOnly', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 08 Mar 2018 09:31:32 GMT'}
+2018-03-08 17:31:12,084 test_.py[line: 57] INFO: 发起post请求:http://192.168.1.120:80/smartcommunity/administratormanagement/mainlist?isSeparate=true,值:None
+2018-03-08 17:31:12,095 test_.py[line: 59] INFO: 请求头为:{'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '28', 'Date': 'Thu, 08 Mar 2018 09:31:32 GMT'}
+2018-03-08 17:32:03,087 test_.py[line: 23] INFO: 发起get请求(session):http://192.168.1.120:80/smartcommunity/login/toLogin,值:loginName=admin&password=Adminmint
+2018-03-08 17:32:03,141 test_.py[line: 25] INFO: 请求头为:{'Set-Cookie': 'JSESSIONID=CC37D2454E00F2073E4C7E36A3005271; Path=/smartcommunity; HttpOnly', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 08 Mar 2018 09:32:23 GMT'}
+2018-03-08 17:32:03,141 test_.py[line: 57] INFO: 发起post请求:http://192.168.1.120:80/smartcommunity/administratormanagement/mainlist?isSeparate=true,值:None
+2018-03-08 17:32:03,151 test_.py[line: 59] INFO: 请求头为:{'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '28', 'Date': 'Thu, 08 Mar 2018 09:32:23 GMT'}
+2018-03-08 17:33:44,678 test_.py[line: 23] INFO: 发起post请求(session):http://192.168.1.120:80/smartcommunity/login/toLogin,值:loginName=admin&password=Adminmint
+2018-03-08 17:33:44,720 test_.py[line: 25] INFO: 请求头为:{'Set-Cookie': 'JSESSIONID=E7281E172D8F31BD858551A2350B2C20; Path=/smartcommunity; HttpOnly', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 08 Mar 2018 09:34:05 GMT'}
+2018-03-08 17:33:44,721 test_.py[line: 57] INFO: 发起get请求(session)(session):http://192.168.1.120:80/smartcommunity/administratormanagement/mainlist?isSeparate=true,值:None
+2018-03-08 17:33:44,727 test_.py[line: 59] INFO: 请求头为:{'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '28', 'Date': 'Thu, 08 Mar 2018 09:34:05 GMT'}
+2018-03-08 17:33:48,095 test_.py[line: 23] INFO: 发起post请求(session):http://192.168.1.120:80/smartcommunity/login/toLogin,值:loginName=admin&password=Adminmint
+2018-03-08 17:33:48,131 test_.py[line: 25] INFO: 请求头为:{'Set-Cookie': 'JSESSIONID=8109701DE15819CD5654D58CBF98EF88; Path=/smartcommunity; HttpOnly', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 08 Mar 2018 09:34:08 GMT'}
+2018-03-08 17:33:48,131 test_.py[line: 57] INFO: 发起get请求(session):http://192.168.1.120:80/smartcommunity/administratormanagement/mainlist?isSeparate=true,值:None
+2018-03-08 17:33:48,139 test_.py[line: 59] INFO: 请求头为:{'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '28', 'Date': 'Thu, 08 Mar 2018 09:34:08 GMT'}
+2018-03-08 17:34:04,492 test_.py[line: 23] INFO: 发起post请求(session):http://192.168.1.120:80/smartcommunity/login/toLogin,值:loginName=admin&password=Adminmint
+2018-03-08 17:34:04,539 test_.py[line: 25] INFO: 请求头为:{'Set-Cookie': 'JSESSIONID=1AB64C662F66366D3C191E162E66EBD4; Path=/smartcommunity; HttpOnly', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 08 Mar 2018 09:34:25 GMT'}
+2018-03-08 17:34:04,539 test_.py[line: 57] INFO: 发起get请求(session):http://192.168.1.120:80/smartcommunity/administratormanagement/mainlist?isSeparate=true,值:None
+2018-03-08 17:34:04,545 test_.py[line: 59] INFO: 请求头为:{'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '28', 'Date': 'Thu, 08 Mar 2018 09:34:25 GMT'}
+2018-03-08 17:35:59,825 httpprotocol.py[line: 104] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:loginName=admin&password=Adminmint
+2018-03-08 17:35:59,827 httpprotocol.py[line: 105] INFO: 请求头为:None
+2018-03-08 17:35:59,963 httpprotocol.py[line: 70] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/administratormanagement/mainlist?isSeparate=true,值:None
+2018-03-08 17:35:59,963 httpprotocol.py[line: 71] INFO: 请求头为:None
+2018-03-08 17:37:05,507 httpprotocol.py[line: 104] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:loginName=admin&password=Adminmint
+2018-03-08 17:37:05,507 httpprotocol.py[line: 105] INFO: 请求头为:None
+2018-03-08 17:37:05,574 httpprotocol.py[line: 70] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/administratormanagement/mainlist?isSeparate=true,值:None
+2018-03-08 17:37:05,574 httpprotocol.py[line: 71] INFO: 请求头为:None
+2018-03-08 17:37:14,623 test_.py[line: 23] INFO: 发起post请求(session):http://192.168.1.120:80/smartcommunity/login/toLogin,值:loginName=admin&password=Adminmint
+2018-03-08 17:37:14,673 test_.py[line: 25] INFO: 请求头为:{'Set-Cookie': 'JSESSIONID=995374C5EB30C9E5CF1924677E4144E2; Path=/smartcommunity; HttpOnly', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 08 Mar 2018 09:37:35 GMT'}
+2018-03-08 17:37:14,673 test_.py[line: 57] INFO: 发起get请求(session):http://192.168.1.120:80/smartcommunity/administratormanagement/mainlist?isSeparate=true,值:None
+2018-03-08 17:37:14,680 test_.py[line: 59] INFO: 请求头为:{'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '28', 'Date': 'Thu, 08 Mar 2018 09:37:35 GMT'}

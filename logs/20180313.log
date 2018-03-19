@@ -1,0 +1,686 @@
+2018-03-13 15:43:38,031 httpprotocol.py[line: 104] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:loginName=admin&password=Adminmint
+2018-03-13 15:43:38,032 httpprotocol.py[line: 105] INFO: 请求头为:None
+2018-03-13 15:43:38,091 httpprotocol.py[line: 70] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/administratormanagement/mainlist?isSeparate=true,值:None
+2018-03-13 15:43:38,092 httpprotocol.py[line: 71] INFO: 请求头为:None
+2018-03-13 16:25:41,754 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:25:41,755 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:25:41,755 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 16:25:41,988 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:25:41,989 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:25:41,990 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:25:41,990 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 16:25:42,070 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:25:42,071 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 16:25:42,093 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:25:42,093 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 16:25:42,093 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:25:42,093 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 16:25:42,132 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-13 16:26:56,911 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:26:56,912 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:26:56,912 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 16:26:56,950 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:26:56,950 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:26:56,951 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:26:56,952 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 16:26:56,988 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:26:56,988 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 16:26:57,005 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:26:57,006 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 16:26:57,006 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:26:57,006 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 16:26:57,042 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-13 16:28:23,162 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:28:23,163 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:28:23,163 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 16:28:23,198 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:28:23,198 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:28:23,199 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:28:23,199 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 16:28:23,234 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:28:23,234 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 16:28:23,253 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:28:23,253 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 16:28:23,253 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:28:23,253 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 16:28:23,288 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-13 16:29:50,836 test_login.py[line: 17] INFO: settest...
+2018-03-13 16:29:50,836 httpprotocol.py[line: 84] INFO: 发起post请求:http://192.168.1.121:8080/yy-door-web-leelen//entry/login,值:{"phone": "13168106986", "password": "123456"}
+2018-03-13 16:29:50,837 httpprotocol.py[line: 85] INFO: 请求头为:{'Content-Type': 'application/json'}
+2018-03-13 16:29:50,872 test_login.py[line: 22] INFO: outtest...
+2018-03-13 16:30:10,931 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:30:10,931 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:30:10,931 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 16:30:10,972 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:30:10,973 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:30:10,973 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:30:10,973 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 16:30:11,017 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:30:11,018 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 16:30:11,210 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:30:11,210 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 16:30:11,210 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:30:11,210 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 16:30:11,251 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-13 16:31:33,031 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:31:33,032 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:31:33,032 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 16:31:33,136 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:31:33,136 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:31:33,137 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:31:33,137 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 16:31:33,174 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:31:33,174 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 16:31:33,196 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:31:33,196 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 16:31:33,197 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:31:33,197 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 16:31:33,232 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-13 16:32:09,875 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:32:09,875 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:32:09,876 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 16:32:09,924 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:32:09,924 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:32:09,925 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:32:09,925 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 16:32:09,959 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:32:09,960 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 16:32:09,980 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:32:09,981 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 16:32:09,981 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:32:09,981 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 16:32:10,018 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-13 16:34:03,218 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:34:03,219 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:34:03,219 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 16:34:03,257 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:34:03,258 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:34:03,258 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:34:03,258 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 16:34:03,295 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:34:03,296 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 16:34:03,315 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:34:03,315 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 16:34:03,316 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:34:03,316 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 16:34:03,367 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-13 16:36:26,298 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:36:26,298 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:36:26,298 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 16:36:26,342 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:36:26,342 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:36:26,342 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:36:26,343 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 16:36:26,381 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:36:26,381 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 16:36:26,403 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:36:26,404 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 16:36:26,404 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:36:26,404 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 16:36:26,444 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-13 16:36:51,807 test_login.py[line: 17] INFO: settest...
+2018-03-13 16:36:51,808 httpprotocol.py[line: 84] INFO: 发起post请求:http://192.168.1.121:8080/yy-door-web-leelen//entry/login,值:{"phone": "13168106986", "password": "123456"}
+2018-03-13 16:36:51,808 httpprotocol.py[line: 85] INFO: 请求头为:{'Content-Type': 'application/json'}
+2018-03-13 16:36:51,839 test_login.py[line: 22] INFO: outtest...
+2018-03-13 16:37:50,465 test_login.py[line: 17] INFO: settest...
+2018-03-13 16:37:50,466 httpprotocol.py[line: 84] INFO: 发起post请求:http://192.168.1.121:8080/yy-door-web-leelen//entry/login,值:{"phone": "13168106986", "password": "123456"}
+2018-03-13 16:37:50,466 httpprotocol.py[line: 85] INFO: 请求头为:{'Content-Type': 'application/json'}
+2018-03-13 16:37:50,490 test_login.py[line: 22] INFO: outtest...
+2018-03-13 16:39:49,801 test_login.py[line: 17] INFO: settest...
+2018-03-13 16:39:49,802 httpprotocol.py[line: 84] INFO: 发起post请求:http://192.168.1.121:8080/yy-door-web-leelen//entry/login,值:{"phone": "13168106986", "password": "123456"}
+2018-03-13 16:39:49,802 httpprotocol.py[line: 85] INFO: 请求头为:{'Content-Type': 'application/json'}
+2018-03-13 16:39:49,833 test_login.py[line: 22] INFO: outtest...
+2018-03-13 16:39:50,911 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:39:50,911 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:39:50,911 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 16:39:50,953 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:39:50,954 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:39:50,954 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:39:50,954 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 16:39:50,992 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:39:50,992 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 16:39:51,032 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:39:51,032 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 16:39:51,032 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:39:51,033 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 16:39:51,077 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-13 16:40:12,424 test_login.py[line: 17] INFO: settest...
+2018-03-13 16:40:12,424 httpprotocol.py[line: 84] INFO: 发起post请求:http://192.168.1.121:8080/yy-door-web-leelen//entry/login,值:{"phone": "13168106986", "password": "123456"}
+2018-03-13 16:40:12,424 httpprotocol.py[line: 85] INFO: 请求头为:{'Content-Type': 'application/json'}
+2018-03-13 16:40:12,444 test_login.py[line: 22] INFO: outtest...
+2018-03-13 16:40:13,486 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:40:13,486 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:40:13,487 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 16:40:13,522 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:40:13,522 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:40:13,523 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:40:13,523 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 16:40:13,563 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:40:13,563 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 16:40:13,584 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:40:13,584 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 16:40:13,584 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:40:13,584 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 16:40:13,618 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-13 16:44:48,288 test_login.py[line: 17] INFO: settest...
+2018-03-13 16:44:48,288 httpprotocol.py[line: 84] INFO: 发起post请求:http://192.168.1.121:8080/yy-door-web-leelen//entry/login,值:{"phone": "13168106986", "password": "123456"}
+2018-03-13 16:44:48,289 httpprotocol.py[line: 85] INFO: 请求头为:{'Content-Type': 'application/json'}
+2018-03-13 16:44:48,321 test_login.py[line: 22] INFO: outtest...
+2018-03-13 16:44:49,189 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:44:49,190 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:44:49,190 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 16:44:49,290 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:44:49,291 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:44:49,291 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:44:49,291 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 16:44:49,329 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:44:49,329 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 16:44:49,354 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:44:49,354 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 16:44:49,355 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:44:49,355 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 16:44:49,389 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-13 16:45:26,292 test_login.py[line: 17] INFO: settest...
+2018-03-13 16:45:26,293 httpprotocol.py[line: 84] INFO: 发起post请求:http://192.168.1.121:8080/yy-door-web-leelen//entry/login,值:{"phone": "13168106986", "password": "123456"}
+2018-03-13 16:45:26,293 httpprotocol.py[line: 85] INFO: 请求头为:{'Content-Type': 'application/json'}
+2018-03-13 16:45:26,316 test_login.py[line: 22] INFO: outtest...
+2018-03-13 16:45:27,270 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:45:27,271 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:45:27,271 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 16:45:27,493 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:45:27,494 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:45:27,494 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:45:27,494 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 16:45:27,601 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:45:27,601 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 16:45:27,624 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:45:27,624 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 16:45:27,625 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:45:27,625 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 16:45:27,745 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-13 16:45:32,131 test_login.py[line: 17] INFO: settest...
+2018-03-13 16:45:32,131 httpprotocol.py[line: 84] INFO: 发起post请求:http://192.168.1.121:8080/yy-door-web-leelen//entry/login,值:{"phone": "13168106986", "password": "123456"}
+2018-03-13 16:45:32,131 httpprotocol.py[line: 85] INFO: 请求头为:{'Content-Type': 'application/json'}
+2018-03-13 16:45:32,153 test_login.py[line: 22] INFO: outtest...
+2018-03-13 16:45:33,079 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:45:33,080 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:45:33,080 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 16:45:33,219 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:45:33,219 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:45:33,220 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:45:33,220 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 16:45:33,318 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:45:33,319 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 16:45:33,344 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:45:33,344 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 16:45:33,345 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:45:33,345 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 16:45:33,467 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-13 16:45:38,329 test_login.py[line: 17] INFO: settest...
+2018-03-13 16:45:38,329 httpprotocol.py[line: 84] INFO: 发起post请求:http://192.168.1.121:8080/yy-door-web-leelen//entry/login,值:{"phone": "13168106986", "password": "123456"}
+2018-03-13 16:45:38,329 httpprotocol.py[line: 85] INFO: 请求头为:{'Content-Type': 'application/json'}
+2018-03-13 16:45:38,350 test_login.py[line: 22] INFO: outtest...
+2018-03-13 16:45:39,226 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:45:39,226 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:45:39,227 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 16:45:39,287 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:45:39,287 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:45:39,288 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:45:39,288 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 16:45:39,390 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:45:39,390 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 16:45:39,412 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:45:39,413 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 16:45:39,413 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:45:39,413 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 16:45:39,579 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-13 16:45:46,393 test_login.py[line: 17] INFO: settest...
+2018-03-13 16:45:46,394 httpprotocol.py[line: 84] INFO: 发起post请求:http://192.168.1.121:8080/yy-door-web-leelen//entry/login,值:{"phone": "13168106986", "password": "123456"}
+2018-03-13 16:45:46,394 httpprotocol.py[line: 85] INFO: 请求头为:{'Content-Type': 'application/json'}
+2018-03-13 16:45:46,414 test_login.py[line: 22] INFO: outtest...
+2018-03-13 16:45:47,313 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:45:47,314 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:45:47,314 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 16:45:47,352 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:45:47,353 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:45:47,353 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:45:47,354 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 16:45:47,388 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:45:47,388 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 16:45:47,411 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:45:47,411 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 16:45:47,412 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:45:47,412 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 16:45:47,448 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-13 16:46:31,760 test_login.py[line: 17] INFO: settest...
+2018-03-13 16:46:31,761 httpprotocol.py[line: 84] INFO: 发起post请求:http://192.168.1.121:8080/yy-door-web-leelen//entry/login,值:{"phone": "13168106986", "password": "123456"}
+2018-03-13 16:46:31,761 httpprotocol.py[line: 85] INFO: 请求头为:{'Content-Type': 'application/json'}
+2018-03-13 16:46:31,784 test_login.py[line: 22] INFO: outtest...
+2018-03-13 16:46:32,787 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:46:32,788 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:46:32,788 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 16:46:32,824 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:46:32,824 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:46:32,825 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:46:32,825 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 16:46:32,875 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:46:32,875 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 16:46:32,926 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:46:32,926 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 16:46:32,927 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:46:32,927 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 16:46:32,972 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-13 16:48:56,939 test_login.py[line: 17] INFO: settest...
+2018-03-13 16:48:56,939 httpprotocol.py[line: 84] INFO: 发起post请求:http://192.168.1.121:8080/yy-door-web-leelen//entry/login,值:{"phone": "13168106986", "password": "123456"}
+2018-03-13 16:48:56,940 httpprotocol.py[line: 85] INFO: 请求头为:{'Content-Type': 'application/json'}
+2018-03-13 16:48:56,962 test_login.py[line: 22] INFO: outtest...
+2018-03-13 16:48:57,838 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:48:57,839 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:48:57,840 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 16:48:57,875 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:48:57,875 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:48:57,875 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:48:57,875 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 16:48:57,916 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:48:57,916 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 16:48:57,942 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:48:57,943 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 16:48:57,943 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:48:57,943 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 16:48:57,978 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-13 16:49:15,690 test_login.py[line: 17] INFO: settest...
+2018-03-13 16:49:15,691 httpprotocol.py[line: 84] INFO: 发起post请求:http://192.168.1.121:8080/yy-door-web-leelen//entry/login,值:{"phone": "13168106986", "password": "123456"}
+2018-03-13 16:49:15,691 httpprotocol.py[line: 85] INFO: 请求头为:{'Content-Type': 'application/json'}
+2018-03-13 16:49:15,714 test_login.py[line: 22] INFO: outtest...
+2018-03-13 16:49:16,722 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:49:16,723 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:49:16,723 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 16:49:16,761 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:49:16,762 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:49:16,762 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:49:16,762 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 16:49:16,805 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:49:16,805 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 16:49:16,830 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:49:16,830 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 16:49:16,831 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:49:16,831 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 16:49:16,867 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-13 16:49:35,982 test_login.py[line: 17] INFO: settest...
+2018-03-13 16:49:35,983 httpprotocol.py[line: 84] INFO: 发起post请求:http://192.168.1.121:8080/yy-door-web-leelen//entry/login,值:{"phone": "13168106986", "password": "123456"}
+2018-03-13 16:49:35,983 httpprotocol.py[line: 85] INFO: 请求头为:{'Content-Type': 'application/json'}
+2018-03-13 16:49:36,005 test_login.py[line: 22] INFO: outtest...
+2018-03-13 16:49:36,983 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:49:36,987 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:49:36,987 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 16:49:37,026 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:49:37,026 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:49:37,026 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:49:37,027 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 16:49:37,066 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:49:37,067 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 16:49:37,095 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:49:37,095 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 16:49:37,096 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:49:37,096 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 16:49:37,130 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-13 16:50:24,220 test_login.py[line: 17] INFO: settest...
+2018-03-13 16:50:24,221 httpprotocol.py[line: 84] INFO: 发起post请求:http://192.168.1.121:8080/yy-door-web-leelen//entry/login,值:{"phone": "13168106986", "password": "123456"}
+2018-03-13 16:50:24,221 httpprotocol.py[line: 85] INFO: 请求头为:{'Content-Type': 'application/json'}
+2018-03-13 16:50:24,249 test_login.py[line: 22] INFO: outtest...
+2018-03-13 16:50:25,264 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:50:25,265 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:50:25,265 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 16:50:25,481 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:50:25,482 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:50:25,482 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:50:25,482 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 16:50:25,526 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:50:25,526 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 16:50:25,546 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:50:25,547 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 16:50:25,548 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:50:25,548 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 16:50:25,585 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-13 16:50:41,499 test_login.py[line: 17] INFO: settest...
+2018-03-13 16:50:41,499 httpprotocol.py[line: 84] INFO: 发起post请求:http://192.168.1.121:8080/yy-door-web-leelen//entry/login,值:{"phone": "13168106986", "password": "123456"}
+2018-03-13 16:50:41,499 httpprotocol.py[line: 85] INFO: 请求头为:{'Content-Type': 'application/json'}
+2018-03-13 16:50:41,533 test_login.py[line: 22] INFO: outtest...
+2018-03-13 16:50:42,380 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:50:42,381 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:50:42,381 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 16:50:42,413 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:50:42,413 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:50:42,414 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:50:42,414 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 16:50:42,460 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:50:42,460 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 16:50:42,488 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:50:42,489 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 16:50:42,489 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:50:42,489 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 16:50:42,524 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-13 16:50:57,126 test_login.py[line: 17] INFO: settest...
+2018-03-13 16:50:57,126 httpprotocol.py[line: 84] INFO: 发起post请求:http://192.168.1.121:8080/yy-door-web-leelen//entry/login,值:{"phone": "13168106986", "password": "123456"}
+2018-03-13 16:50:57,126 httpprotocol.py[line: 85] INFO: 请求头为:{'Content-Type': 'application/json'}
+2018-03-13 16:50:57,150 test_login.py[line: 22] INFO: outtest...
+2018-03-13 16:50:58,048 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:50:58,049 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:50:58,049 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 16:50:58,085 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:50:58,085 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:50:58,086 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:50:58,086 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 16:50:58,125 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:50:58,125 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 16:50:58,145 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:50:58,146 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 16:50:58,146 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:50:58,146 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 16:50:58,186 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-13 16:52:38,975 test_login.py[line: 17] INFO: settest...
+2018-03-13 16:52:38,975 httpprotocol.py[line: 84] INFO: 发起post请求:http://192.168.1.121:8080/yy-door-web-leelen//entry/login,值:{"phone": "13168106986", "password": "123456"}
+2018-03-13 16:52:38,975 httpprotocol.py[line: 85] INFO: 请求头为:{'Content-Type': 'application/json'}
+2018-03-13 16:52:39,008 test_login.py[line: 22] INFO: outtest...
+2018-03-13 16:52:40,071 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:52:40,071 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:52:40,071 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 16:52:40,158 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:52:40,158 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:52:40,158 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:52:40,159 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 16:52:40,266 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:52:40,267 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 16:52:40,288 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:52:40,289 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 16:52:40,290 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:52:40,290 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 16:52:40,394 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-13 16:55:06,937 test_login.py[line: 17] INFO: settest...
+2018-03-13 16:55:06,937 httpprotocol.py[line: 84] INFO: 发起post请求:http://192.168.1.121:8080/yy-door-web-leelen//entry/login,值:{"phone": "13168106986", "password": "123456"}
+2018-03-13 16:55:06,937 httpprotocol.py[line: 85] INFO: 请求头为:{'Content-Type': 'application/json'}
+2018-03-13 16:55:06,962 test_login.py[line: 22] INFO: outtest...
+2018-03-13 16:55:08,021 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:55:08,022 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:55:08,022 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 16:55:08,065 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:55:08,065 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:55:08,065 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:55:08,065 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 16:55:08,107 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:55:08,107 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 16:55:08,128 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:55:08,129 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 16:55:08,129 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:55:08,129 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 16:55:08,166 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-13 16:56:40,848 test_login.py[line: 17] INFO: settest...
+2018-03-13 16:56:40,848 httpprotocol.py[line: 84] INFO: 发起post请求:http://192.168.1.121:8080/yy-door-web-leelen//entry/login,值:{"phone": "13168106986", "password": "123456"}
+2018-03-13 16:56:40,848 httpprotocol.py[line: 85] INFO: 请求头为:{'Content-Type': 'application/json'}
+2018-03-13 16:56:40,875 test_login.py[line: 22] INFO: outtest...
+2018-03-13 16:56:42,106 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:56:42,107 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:56:42,107 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 16:56:42,144 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:56:42,145 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:56:42,145 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:56:42,145 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 16:56:42,179 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:56:42,180 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 16:56:42,201 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:56:42,202 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 16:56:42,202 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:56:42,202 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 16:56:42,234 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-13 16:57:16,730 test_login.py[line: 17] INFO: settest...
+2018-03-13 16:57:16,730 httpprotocol.py[line: 84] INFO: 发起post请求:http://192.168.1.121:8080/yy-door-web-leelen//entry/login,值:{"phone": "13168106986", "password": "123456"}
+2018-03-13 16:57:16,730 httpprotocol.py[line: 85] INFO: 请求头为:{'Content-Type': 'application/json'}
+2018-03-13 16:57:16,748 test_login.py[line: 22] INFO: outtest...
+2018-03-13 16:57:17,590 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:57:17,591 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:57:17,591 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 16:57:18,055 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:57:18,056 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:57:18,056 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:57:18,057 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 16:57:18,356 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:57:18,356 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 16:57:18,421 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:57:18,421 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 16:57:18,422 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:57:18,422 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 16:57:18,533 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-13 16:59:01,523 test_login.py[line: 17] INFO: settest...
+2018-03-13 16:59:01,523 httpprotocol.py[line: 84] INFO: 发起post请求:http://192.168.1.121:8080/yy-door-web-leelen//entry/login,值:{"phone": "13168106986", "password": "123456"}
+2018-03-13 16:59:01,523 httpprotocol.py[line: 85] INFO: 请求头为:{'Content-Type': 'application/json'}
+2018-03-13 16:59:02,452 test_login.py[line: 22] INFO: outtest...
+2018-03-13 16:59:02,584 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:59:02,585 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:59:02,585 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 16:59:02,622 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:59:02,622 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:59:02,623 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:59:02,623 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 16:59:02,667 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:59:02,668 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 16:59:02,705 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:59:02,706 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 16:59:02,706 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:59:02,706 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 16:59:02,741 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-13 16:59:46,728 test_login.py[line: 17] INFO: settest...
+2018-03-13 16:59:46,728 httpprotocol.py[line: 84] INFO: 发起post请求:http://192.168.1.121:8080/yy-door-web-leelen//entry/login,值:{"phone": "13168106986", "password": "123456"}
+2018-03-13 16:59:46,728 httpprotocol.py[line: 85] INFO: 请求头为:{'Content-Type': 'application/json'}
+2018-03-13 16:59:46,750 test_login.py[line: 22] INFO: outtest...
+2018-03-13 16:59:47,722 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:59:47,723 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:59:47,723 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 16:59:47,757 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:59:47,758 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 16:59:47,758 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:59:47,758 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 16:59:47,800 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 16:59:47,800 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 16:59:47,836 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 16:59:47,836 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 16:59:47,837 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 16:59:47,837 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 16:59:47,896 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-13 17:00:47,553 test_login.py[line: 17] INFO: settest...
+2018-03-13 17:00:47,554 httpprotocol.py[line: 84] INFO: 发起post请求:http://192.168.1.121:8080/yy-door-web-leelen//entry/login,值:{"phone": "13168106986", "password": "123456"}
+2018-03-13 17:00:47,554 httpprotocol.py[line: 85] INFO: 请求头为:{'Content-Type': 'application/json'}
+2018-03-13 17:00:47,573 test_login.py[line: 22] INFO: outtest...
+2018-03-13 17:00:48,569 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 17:00:48,569 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 17:00:48,570 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 17:00:48,759 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 17:00:48,760 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 17:00:48,760 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 17:00:48,760 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 17:00:48,986 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 17:00:48,986 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 17:00:49,444 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 17:00:49,445 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 17:00:49,445 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 17:00:49,445 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 17:00:49,506 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-13 17:01:07,436 test_login.py[line: 17] INFO: settest...
+2018-03-13 17:01:07,436 httpprotocol.py[line: 84] INFO: 发起post请求:http://192.168.1.121:8080/yy-door-web-leelen//entry/login,值:{"phone": "13168106986", "password": "123456"}
+2018-03-13 17:01:07,437 httpprotocol.py[line: 85] INFO: 请求头为:{'Content-Type': 'application/json'}
+2018-03-13 17:01:07,464 test_login.py[line: 22] INFO: outtest...
+2018-03-13 17:01:08,513 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 17:01:08,514 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 17:01:08,514 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 17:01:08,551 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 17:01:08,552 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 17:01:08,552 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 17:01:08,552 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 17:01:08,588 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 17:01:08,588 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 17:01:08,626 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 17:01:08,626 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 17:01:08,627 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 17:01:08,627 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 17:01:08,661 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-13 17:01:26,361 test_login.py[line: 17] INFO: settest...
+2018-03-13 17:01:26,362 httpprotocol.py[line: 84] INFO: 发起post请求:http://192.168.1.121:8080/yy-door-web-leelen//entry/login,值:{"phone": "13168106986", "password": "123456"}
+2018-03-13 17:01:26,362 httpprotocol.py[line: 85] INFO: 请求头为:{'Content-Type': 'application/json'}
+2018-03-13 17:01:26,395 test_login.py[line: 22] INFO: outtest...
+2018-03-13 17:01:27,366 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 17:01:27,366 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 17:01:27,366 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 17:01:27,482 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 17:01:27,482 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 17:01:27,482 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 17:01:27,483 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 17:01:27,549 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 17:01:27,550 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 17:01:27,594 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 17:01:27,594 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 17:01:27,594 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 17:01:27,595 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 17:01:27,868 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-13 17:01:48,995 test_login.py[line: 17] INFO: settest...
+2018-03-13 17:01:48,995 httpprotocol.py[line: 84] INFO: 发起post请求:http://192.168.1.121:8080/yy-door-web-leelen//entry/login,值:{"phone": "13168106986", "password": "123456"}
+2018-03-13 17:01:48,995 httpprotocol.py[line: 85] INFO: 请求头为:{'Content-Type': 'application/json'}
+2018-03-13 17:01:49,051 test_login.py[line: 22] INFO: outtest...
+2018-03-13 17:01:49,949 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 17:01:49,950 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 17:01:49,950 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 17:01:50,186 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 17:01:50,187 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 17:01:50,187 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 17:01:50,187 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 17:01:50,307 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 17:01:50,307 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 17:01:50,407 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 17:01:50,407 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 17:01:50,407 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 17:01:50,408 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 17:01:50,534 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-13 17:03:16,829 test_login.py[line: 17] INFO: settest...
+2018-03-13 17:03:16,829 httpprotocol.py[line: 84] INFO: 发起post请求:http://192.168.1.121:8080/yy-door-web-leelen//entry/login,值:{"phone": "13168106986", "password": "123456"}
+2018-03-13 17:03:16,830 httpprotocol.py[line: 85] INFO: 请求头为:{'Content-Type': 'application/json'}
+2018-03-13 17:03:16,860 test_login.py[line: 22] INFO: outtest...
+2018-03-13 17:03:17,734 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 17:03:17,735 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 17:03:17,735 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 17:03:17,796 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 17:03:17,797 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 17:03:17,797 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 17:03:17,797 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 17:03:17,831 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 17:03:17,831 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 17:03:17,857 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 17:03:17,858 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 17:03:17,858 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 17:03:17,858 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 17:03:17,896 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-13 17:04:47,543 test_login.py[line: 17] INFO: settest...
+2018-03-13 17:04:47,543 httpprotocol.py[line: 84] INFO: 发起post请求:http://192.168.1.121:8080/yy-door-web-leelen//entry/login,值:{"phone": "13168106986", "password": "123456"}
+2018-03-13 17:04:47,543 httpprotocol.py[line: 85] INFO: 请求头为:{'Content-Type': 'application/json'}
+2018-03-13 17:04:47,563 test_login.py[line: 22] INFO: outtest...
+2018-03-13 17:04:48,529 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 17:04:48,530 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 17:04:48,530 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 17:04:48,566 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 17:04:48,566 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 17:04:48,566 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 17:04:48,566 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 17:04:48,605 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 17:04:48,606 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 17:04:48,627 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 17:04:48,627 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 17:04:48,628 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 17:04:48,628 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 17:04:48,664 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-13 17:06:31,178 test_login.py[line: 17] INFO: settest...
+2018-03-13 17:06:31,178 httpprotocol.py[line: 84] INFO: 发起post请求:http://192.168.1.121:8080/yy-door-web-leelen//entry/login,值:{"phone": "13168106986", "password": "123456"}
+2018-03-13 17:06:31,179 httpprotocol.py[line: 85] INFO: 请求头为:{'Content-Type': 'application/json'}
+2018-03-13 17:06:31,206 test_login.py[line: 22] INFO: outtest...
+2018-03-13 17:06:32,017 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 17:06:32,018 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 17:06:32,018 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 17:06:32,053 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 17:06:32,053 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 17:06:32,054 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 17:06:32,054 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 17:06:32,088 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 17:06:32,088 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 17:06:32,108 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 17:06:32,108 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 17:06:32,109 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 17:06:32,109 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 17:06:32,153 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-13 17:07:38,448 test_login.py[line: 17] INFO: settest...
+2018-03-13 17:07:38,448 httpprotocol.py[line: 84] INFO: 发起post请求:http://192.168.1.121:8080/yy-door-web-leelen//entry/login,值:{"phone": "13168106986", "password": "123456"}
+2018-03-13 17:07:38,448 httpprotocol.py[line: 85] INFO: 请求头为:{'Content-Type': 'application/json'}
+2018-03-13 17:07:38,478 test_login.py[line: 22] INFO: outtest...
+2018-03-13 17:07:39,562 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 17:07:39,563 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 17:07:39,563 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 17:07:39,625 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 17:07:39,625 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 17:07:39,625 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 17:07:39,626 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 17:07:39,696 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 17:07:39,696 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 17:07:39,720 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 17:07:39,720 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 17:07:39,720 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 17:07:39,720 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 17:07:39,765 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-13 17:14:37,455 test_login.py[line: 17] INFO: settest...
+2018-03-13 17:14:37,455 httpprotocol.py[line: 84] INFO: 发起post请求:http://192.168.1.121:8080/yy-door-web-leelen//entry/login,值:{"phone": "13168106986", "password": "123456"}
+2018-03-13 17:14:37,455 httpprotocol.py[line: 85] INFO: 请求头为:{'Content-Type': 'application/json'}
+2018-03-13 17:14:37,546 test_login.py[line: 22] INFO: outtest...
+2018-03-13 17:14:38,455 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 17:14:38,456 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 17:14:38,456 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 17:14:38,625 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 17:14:38,625 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 17:14:38,626 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 17:14:38,626 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 17:14:38,712 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 17:14:38,712 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 17:14:38,756 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 17:14:38,757 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 17:14:38,757 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 17:14:38,757 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 17:14:38,853 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-13 17:14:46,489 test_login.py[line: 17] INFO: settest...
+2018-03-13 17:14:46,489 httpprotocol.py[line: 84] INFO: 发起post请求:http://192.168.1.121:8080/yy-door-web-leelen//entry/login,值:{"phone": "13168106986", "password": "123456"}
+2018-03-13 17:14:46,490 httpprotocol.py[line: 85] INFO: 请求头为:{'Content-Type': 'application/json'}
+2018-03-13 17:14:46,512 test_login.py[line: 22] INFO: outtest...
+2018-03-13 17:14:47,401 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 17:14:47,402 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 17:14:47,402 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 17:14:47,563 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 17:14:47,564 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 17:14:47,564 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 17:14:47,564 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 17:14:47,656 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 17:14:47,656 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 17:14:47,680 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 17:14:47,681 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 17:14:47,681 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 17:14:47,681 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 17:14:47,837 test_logincase.py[line: 20] INFO: login测试结束。。。
+2018-03-13 17:24:40,519 test_login.py[line: 17] INFO: settest...
+2018-03-13 17:24:40,519 httpprotocol.py[line: 84] INFO: 发起post请求:http://192.168.1.121:8080/yy-door-web-leelen//entry/login,值:{"phone": "13168106986", "password": "123456"}
+2018-03-13 17:24:40,519 httpprotocol.py[line: 85] INFO: 请求头为:{'Content-Type': 'application/json'}
+2018-03-13 17:24:40,543 test_login.py[line: 22] INFO: outtest...
+2018-03-13 17:24:41,714 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 17:24:41,715 httpprotocol.py[line: 50] INFO: 发起get请求:http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 17:24:41,715 httpprotocol.py[line: 51] INFO: 请求头为:None
+2018-03-13 17:24:41,865 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 17:24:41,866 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-13 17:24:41,866 httpprotocol.py[line: 69] INFO: 发起post请求(session):http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 17:24:41,867 httpprotocol.py[line: 70] INFO: 请求头为:None
+2018-03-13 17:24:41,910 httpprotocol.py[line: 35] INFO: 发起get请求(session):http://jg.yx.ldsd.cc/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-13 17:24:41,910 httpprotocol.py[line: 36] INFO: 请求头为:None
+2018-03-13 17:24:41,934 test_getwylist.py[line: 23] INFO: outtest
+2018-03-13 17:24:41,935 test_logincase.py[line: 15] INFO: login测试开始。。。
+2018-03-13 17:24:41,935 httpprotocol.py[line: 84] INFO: 发起post请求:http://jg.yx.ldsd.cc/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-13 17:24:41,936 httpprotocol.py[line: 85] INFO: 请求头为:None
+2018-03-13 17:24:41,985 test_logincase.py[line: 20] INFO: login测试结束。。。
