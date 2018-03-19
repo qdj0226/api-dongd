@@ -270,3 +270,40 @@
 2018-03-05 10:19:54,943 httpprotocol.py[line: 83] INFO: 发起post请求:http://192.168.1.120:80/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
 2018-03-05 10:19:54,944 httpprotocol.py[line: 84] INFO: 请求头为:None
 2018-03-05 10:19:54,963 test_logincase.py[line: 17] INFO: login测试结束。。。
+2018-03-05 10:24:06,174 test_getwylist.py[line: 14] INFO: runtest...
+2018-03-05 10:24:06,193 httpprotocol.py[line: 49] INFO: 发起get请求:http://192.168.1.120:80/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-05 10:24:06,193 httpprotocol.py[line: 50] INFO: 请求头为:None
+2018-03-05 10:24:06,206 test_getwylist.py[line: 20] INFO: outtest
+2018-03-05 10:24:06,207 test_getwylist.py[line: 14] INFO: runtest...
+2018-03-05 10:24:06,207 httpprotocol.py[line: 68] INFO: 发起post请求(session):http://192.168.1.120:80/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-05 10:24:06,207 httpprotocol.py[line: 69] INFO: 请求头为:None
+2018-03-05 10:24:06,223 httpprotocol.py[line: 34] INFO: 发起get请求(session):http://192.168.1.120:80/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-05 10:24:06,223 httpprotocol.py[line: 35] INFO: 请求头为:None
+2018-03-05 10:24:06,233 test_getwylist.py[line: 20] INFO: outtest
+2018-03-05 10:24:06,233 test_logincase.py[line: 12] INFO: login测试开始。。。
+2018-03-05 10:24:06,235 httpprotocol.py[line: 83] INFO: 发起post请求:http://192.168.1.120:80/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-05 10:24:06,235 httpprotocol.py[line: 84] INFO: 请求头为:None
+2018-03-05 10:24:06,248 test_logincase.py[line: 17] INFO: login测试结束。。。
+2018-03-05 10:34:52,883 test_getwylist.py[line: 14] INFO: runtest...
+2018-03-05 10:34:52,884 httpprotocol.py[line: 49] INFO: 发起get请求:http://192.168.1.120:80/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-05 10:34:52,884 httpprotocol.py[line: 50] INFO: 请求头为:None
+2018-03-05 10:34:52,910 test_getwylist.py[line: 20] INFO: outtest
+2018-03-05 10:34:52,910 test_getwylist.py[line: 14] INFO: runtest...
+2018-03-05 10:34:52,910 httpprotocol.py[line: 68] INFO: 发起post请求(session):http://192.168.1.120:80/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-05 10:34:52,910 httpprotocol.py[line: 69] INFO: 请求头为:None
+2018-03-05 10:34:52,935 httpprotocol.py[line: 34] INFO: 发起get请求(session):http://192.168.1.120:80/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-05 10:34:52,936 httpprotocol.py[line: 35] INFO: 请求头为:None
+2018-03-05 10:34:52,957 test_getwylist.py[line: 20] INFO: outtest
+2018-03-05 10:34:52,958 test_logincase.py[line: 12] INFO: login测试开始。。。
+2018-03-05 10:34:52,958 httpprotocol.py[line: 83] INFO: 发起post请求:http://192.168.1.120:80/smartcommunity/login/toLogin,值:{'loginName': 'admin', 'password': 'Adminmint'}
+2018-03-05 10:34:52,958 httpprotocol.py[line: 84] INFO: 请求头为:None
+2018-03-05 10:34:52,984 test_logincase.py[line: 17] INFO: login测试结束。。。
+2018-03-05 23:31:41,104 test_login.py[line: 17] INFO: settest...
+2018-03-05 23:31:41,105 httpprotocol.py[line: 85] INFO: 发起post请求:http://192.168.1.121:8080/yy-door-web-leelen//entry/login,值:{"phone": "13168106986", "password": "123456"}
+2018-03-05 23:31:41,105 httpprotocol.py[line: 86] INFO: 请求头为:{'Content-Type': 'application/json'}
+2018-03-05 23:33:12,574 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-05 23:33:12,574 httpprotocol.py[line: 51] INFO: 发起get请求:http://192.168.1.120:80/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-05 23:33:12,574 httpprotocol.py[line: 52] INFO: 请求头为:None
+2018-03-05 23:36:43,753 test_getwylist.py[line: 17] INFO: runtest...
+2018-03-05 23:36:43,754 httpprotocol.py[line: 51] INFO: 发起get请求:http://192.168.1.120:80/smartcommunity/propertymanagement/list?isSeparate=true,值:None
+2018-03-05 23:36:43,754 httpprotocol.py[line: 52] INFO: 请求头为:None

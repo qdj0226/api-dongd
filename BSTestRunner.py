@@ -361,7 +361,7 @@ function showOutput(id, name) {
 
 #total_row  { font-weight: bold; }
 .hiddenRow  { display: none; }
-.testcases   { margin-left: 2em; }
+.testCases   { margin-left: 2em; }
 
 </style>
 """
@@ -436,7 +436,7 @@ function showOutput(id, name) {
 
     REPORT_TEST_WITH_OUTPUT_TMPL = r"""
 <tr id='%(tid)s' class='%(Class)s'>
-    <td class='%(style)s'><div class='testcases'>%(desc)s</div></td>
+    <td class='%(style)s'><div class='testCases'>%(desc)s</div></td>
     <td colspan='5' align='center'>
 
     <!--css div popup start-->
@@ -461,7 +461,7 @@ function showOutput(id, name) {
 
     REPORT_TEST_NO_OUTPUT_TMPL = r"""
 <tr id='%(tid)s' class='%(Class)s'>
-    <td class='%(style)s'><div class='testcases'>%(desc)s</div></td>
+    <td class='%(style)s'><div class='testCases'>%(desc)s</div></td>
     <td colspan='5' align='center'>%(status)s</td>
 </tr>
 """ # variables: (tid, Class, style, desc, status)
